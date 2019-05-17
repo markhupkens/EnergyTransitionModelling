@@ -1,0 +1,3087 @@
+GWBcode8;GWBlabel
+300;Wijk 00
+500;Wijk 00
+900;Wijk 00 West
+901;Wijk 01 Oost
+1000;Wijk 00 Stad
+1001;Wijk 01 Land
+1002;Wijk 02
+1003;Wijk 03
+1400;Centrum
+1401;Oud-Zuid
+1402;Oud-West
+1403;Oud-Noord
+1404;Oosterparkwijk
+1405;Zuidoost
+1406;Helpman e.o.
+1407;Zuidwest
+1408;Hoogkerk e.o.
+1409;Nieuw-West
+1410;Noordwest
+1411;Noordoost
+1412;Noorddijk e.o.
+1413;Meerdorpen
+1414;Meerstad e.o.
+1500;Wijk 00 Grootegast
+1501;Wijk 01 Lutjegast
+1502;Wijk 02 Opende
+1503;Wijk 03 Oldekerk
+1700;Wijk 00 Centrum
+1701;Wijk 01 Land
+2200;Wijk 00 Leek
+2201;Wijk 01 Zevenhuizen
+2202;Wijk 02 Tolbert
+2204;Wijk 04 Midwolde
+2205;Wijk 05 Lettelbert
+2206;Wijk 06 Oostwold
+2207;Wijk 07 Enumatil
+2400;Wijk 00
+2401;Wijk 01 Stedum
+2402;Wijk 02 Middelstum
+2403;Wijk 03 't Zandt
+2500;Wijk 00 Marum
+2501;Wijk 01 De Wilp
+3401;Wijk 01 Almere Haven
+3402;Wijk 02 Almere Stad
+3403;Wijk 03 Almere Buiten
+3404;Wijk 04 Almere Poort
+3405;Wijk 05 Almere Hout
+3406;Wijk 06 Almere Pampus
+3701;Stadskanaal
+3702;Musselkanaal
+3703;Onstwedde
+3704;Mussel
+3705;Alteveer
+4700;Wijk 00 Veendam-kern
+4701;Wijk 01 Veendam-buitengebied
+4702;Wijk 02 Wildervank
+5000;Wijk 00
+5300;Wijk 00
+5301;Wijk 01
+5302;Wijk 02
+5303;Wijk 03
+5600;Wijk 00
+5601;Wijk 01
+5602;Wijk 02
+5603;Wijk 03
+5800;Dokkum
+5801;Metslawier
+5802;Ee - Zuidoost
+5803;Anjum - Noordoost
+5804;Oosternijkerk - Noordwest
+5805;Ternaard
+5806;Holwerd
+5807;Hantum
+5900;Wijk 00 Noord
+5901;Wijk 01 Centrum
+5902;Wijk 02 Zuid
+6000;Wijk 00
+7200;Wijk 00 Harlingen
+7201;Wijk 01 Midlum
+7202;Wijk 02 Wijnaldum
+7401;Wijk 01 Heerenveen
+7402;Wijk 02 Noord-Heerenveen
+7403;Wijk 03 Hoornsterzwaag
+7404;Wijk 04 Jubbega
+7406;Wijk 06 Oranjewoud
+7407;Skarsterlân
+7409;Boarnsterhim
+7900;Wijk 00 Kollum
+7901;Wijk 01 Oost
+7902;Wijk 02 Noordwest
+7903;Wijk 03 Zuidwest
+8010;Binnenstad
+8011;Potmargezone
+8020;Oud-Oost
+8030;Sonnenborgh e.o.
+8031;Westeinde e.o.
+8032;Vossepark & Helicon
+8040;Huizum-West
+8041;Nijlân & De Zwette
+8050;Heechterp & Schieringen
+8051;Camminghaburen e.o.
+8060;Bilgaard & Havankpark e.o.
+8061;Vrijheidswijk
+8062;Dokkumer Ie e.o.
+8063;Stiens e.o.
+8070;Aldlân & De Hemrik
+8071;Goutum
+8072;Hempens/Teerns & Zuiderburen
+8073;De Zuidlanden
+8074;Middelsee
+8080;Dorpen Zuid-Oost
+8081;Dorpen Zuid-West
+8082;Grou e.o.
+8500;Wijk 00 Oosterwolde
+8501;Wijk 01 Donkerbroek
+8502;Wijk 02 Makkinga
+8503;Wijk 03 Oldeberkoop
+8504;Wijk 04 Haulerwijk
+8505;Wijk 05 Appelscha
+8600;Wijk 00 Gorredijk
+8601;Wijk 01 Langezwaag
+8602;Wijk 02 Terwispel
+8603;Wijk 03 Beetsterzwaag
+8604;Wijk 04 Ureterp
+8605;Wijk 05 Bakkeveen
+8800;Wijk 00
+9000;Wijk 00 Drachten
+9001;Wijk 01 Overig Smallingerland
+9300;Wijk 00 West-Terschelling
+9301;Wijk 01 Midsland
+9302;Wijk 02 Formerum
+9303;Wijk 03 Lies
+9304;Wijk 04 Hoorn
+9305;Wijk 05 Oosterend
+9600;Wijk 00
+9800;Wijk 00 Wolvega
+9801;Wijk 01 Sonnega
+9802;Wijk 02 Helomavaart
+9803;Wijk 03 Munnekeburen
+9804;Wijk 04 Scherpenzeel
+9805;Wijk 05 Oldeholtpade
+9806;Wijk 06 Blesdijke
+9807;Wijk 07 Steggerda
+9808;Wijk 08 Noordwolde
+10600;Wijk 00 Assen centrum
+10601;Wijk 01 Lariks
+10602;Wijk 02 Noorderpark
+10603;Wijk 03 Assen Oost
+10604;Wijk 04 Pittelo
+10605;Wijk 05 Assen West
+10606;Wijk 06 Peelo
+10607;Wijk 07 Marsdijk
+10608;Wijk 08 Kloosterveen
+10699;Wijk 99 Buitengebied
+10910;Wijk 10 Coevorden
+10911;Wijk 11 Steenwijksmoer
+10912;Wijk 12 Nieuwe Krim
+10913;Wijk 13 Weijerswold
+10914;Wijk 14 Vlieghuis en Padhuis
+10920;Wijk 20 Dalen
+10930;Wijk 30 Oosterhesselen
+10940;Wijk 40 Sleen
+10950;Wijk 50 Zweeloo
+11401;Wijk 01 Nieuw-Weerdinge
+11402;Wijk 02 Roswinkel
+11403;Wijk 03 Emmer-Compascuum
+11404;Wijk 04 Barger-Compascuum
+11405;Wijk 05 Nieuw-Dordrecht
+11406;Wijk 06 Nieuw-Amsterdam
+11407;Wijk 07 Erica
+11408;Wijk 08 Klazienaveen
+11409;Wijk 09 Zwartemeer
+11410;Wijk 10 Schoonebeek
+11413;Wijk 13 Veenoord
+11421;Wijk 21 Nieuw-Schoonebeek
+11432;Wijk 32 Weiteveen
+11440;Wijk 40 Emmen-Centrum
+11441;Wijk 41 Emmen-Centrum Oost
+11442;Wijk 42 Emmermeer
+11443;Wijk 43 Angelslo
+11444;Wijk 44 Emmerhout
+11445;Wijk 45 Emmerschans
+11446;Wijk 46 Bargeres
+11447;Wijk 47 Rietlanden
+11448;Wijk 48 Parc Sandur
+11449;Wijk 49 Delftlanden
+11450;Wijk 50 Barger-Oosterveld
+11451;Wijk 51 Kern Emmen Noord
+11452;Wijk 52 Kern Emmen Zuid
+11453;Wijk 53 Kern Emmen Industrieterreinen
+11850;Wijk 50 Hoogeveen
+11851;Wijk 51 De Weide
+11852;Wijke 52 Fluitenberg
+11853;Wijk 53 Elim
+11854;Wijk 54 Hollandscheveld
+11855;Wijk 55 Noordscheschut
+11856;Wijk 56 Nieuwlande
+11857;Wijk 57 Nieuweroord
+11858;Wijk 58 Tiendeveen
+11859;Wijk 59 Stuifzand
+11860;Wijk 60 Pesse
+11861;Wijk 61 Zuideropgaande Nieuw Moscou
+11862;Wijk 62 Industrie- en verspreide gebieden
+11900;Centrum
+11901;Watertoren
+11902;Haveltermade
+11903;Koedijkslanden
+11904;Berggierslanden
+11905;Ezinge
+11906;Oosterboer
+11907;Nieuwveenselanden
+11908;Blankenstein
+11909;Industrieterrein Noord
+11910;Industrie Oevers
+11911;Verspreid gebied Meppel
+11912;Nijeveen
+11913;Rogat
+14110;Wijk 10 Binnenstad
+14111;Wijk 11 De Riet
+14112;Wijk 12 Noorderkwartier
+14113;Wijk 13 Sluitersveld
+14114;Wijk 14 Wierdense Hoek
+14115;Wijk 15 Nieuwstraat-Kwartier
+14116;Wijk 16 Ossenkoppelerhoek
+14117;Wijk 17 Hofkamp
+14118;Wijk 18 Schelfhorst
+14119;Wijk 19 Windmolenbroek
+14120;Wijk 20 Aadorp
+14121;Wijk 21 Bornerbroek
+14700;Wijk 00 Borne
+14701;Wijk 01 Buitengebied Borne
+14801;Dalfsen
+14802;Nieuwleusen
+14803;Lemelerveld
+15001;Wijk 1 Binnenstad
+15002;Wijk 2 De Hoven
+15003;Wijk 3 Zandweerd
+15004;Wijk 4 Voorstad
+15005;Wijk 5 Borgele en Platvoet
+15006;Wijk 6 Keizerslanden
+15007;Wijk 7 Rivierenwijk en Bergweide
+15008;Wijk 8 Colmschate-Noord
+15009;Wijk 9 Colmschate-Vijfhoek
+15010;Wijk 10 Colmschate-Zuid
+15011;Wijk 11 Diepenveen
+15012;Wijk 12 Schalkhaar
+15013;Wijk 13 Okkenbroek
+15014;Wijk 14 Lettele
+15015;Wijk 15 Bathmen
+15300;Wijk 00 Binnensingelgebied
+15301;Wijk 01 Hogeland - Velve
+15302;Wijk 02 Boswinkel - Stadsveld
+15303;Wijk 03 Twekkelerveld - T.H.T.
+15304;Wijk 04 Enschede-Noord
+15305;Wijk 05 Ribbelt - Stokhorst
+15306;Wijk 06 Enschede-Zuid
+15307;Wijk 07 Bedrijfsterreinen Enschede-West
+15308;Wijk 08 Glanerbrug en omgeving
+15309;Wijk 09 Landelijk gebied en kernen
+15800;Wijk 00 Haaksbergen (dorp)
+15801;Wijk 01 Haaksbergen (buitengebied)
+15802;Wijk 02 Sint Isidorushoeve
+15803;Wijk 03 Buurse
+15804;Wijk 04 Rietmolen
+15805;Wijk 05 Hengevelde
+15806;Wijk 06 Beckum
+15809;Wijk 09 Haaksbergen-kern
+16001;Ane
+16002;Anerveen
+16003;Anevelde
+16004;Balkbrug
+16005;Bergentheim
+16006;Brucht
+16007;Collendoorn
+16008;De Krim
+16009;Dedemsvaart
+16010;Den Velde
+16011;Diffelen
+16012;Gramsbergen
+16013;Heemserveen
+16014;Holtheme
+16015;Holthone
+16016;Hoogenweg
+16017;Kloosterhaar
+16018;Loozen
+16019;Lutten
+16020;Marienberg
+16021;Radewijk
+16022;Rheeze
+16023;Rheezerveen
+16024;Schuinesloot
+16025;Sibculo
+16026;Slagharen
+16027;Venebrugge
+16028;Hardenberg
+16029;Bruchterveld
+16301;Wijk 01 Hellendoorn
+16302;Wijk 02 Nijverdal Noord
+16303;Wijk 03 Nijverdal West
+16304;Wijk 04 Nijverdal Oost
+16305;Wijk 05 Buitengebied
+16306;Wijk 06 Kruidenwijk
+16307;Wijk 07 Haarle
+16308;Wijk 08 Daarle
+16309;Wijk 09 Daarlerveen
+16400;Wijk 00 Binnenstad
+16401;Wijk 01 Hengelose Es
+16402;Wijk 02 Noord
+16403;Wijk 03 Hasseler Es
+16404;Wijk 04 Groot Driene
+16405;Wijk 05 Berflo Es
+16406;Wijk 06 Wilderinkshoek
+16407;Wijk 07 Woolde
+16408;Wijk 08 Slangenbeek
+16409;Wijk 09 Buitengebied
+16600;Wijk 00 Kampen
+16603;Wijk 03 IJsselmuiden
+16604;Wijk 04 Zalk
+16605;Wijk 05 Wilsum
+16606;Wijk 06 Grafhorst
+16607;Wijk 07 Kamperveen
+16608;Wijk 08 's-Heerenhoek
+16609;Wijk 09 Verspreide huizen
+16800;Wijk 00 Losser
+16801;Wijk 01 Glane
+16802;Wijk 02 Overdinkel
+16803;Wijk 03 De Lutte
+16804;Wijk 04 Beuningen
+17101;Wijk 01 Emmeloord
+17102;Wijk 02 Bant
+17103;Wijk 03 Luttelgeest
+17104;Wijk 04 Marknesse
+17105;Wijk 05 Kraggenburg
+17106;Wijk 06 Ens
+17107;Wijk 07 Nagele
+17108;Wijk 08 Tollebeek
+17109;Wijk 09 Espel
+17110;Wijk 10 Creil
+17111;Wijk 11 Rutten
+17112;Wijk 12 Schokland
+17301;Wijk 01 Binnenstad
+17302;Wijk 02 Het Inslag-De Kleies
+17303;Wijk 03 Glinde-Hooiland
+17304;Wijk 04 De Meijbree
+17305;Wijk 05 Haerbroek-Scholtenhoek
+17306;Wijk 06 Zuid-Berghuizen
+17307;Wijk 07 Hanzepoort
+17308;Wijk 08 Eekte-Hazewinkel
+17309;Wijk 09 Jufferbeek
+17310;Wijk 10 Het Hulsbeek
+17311;Wijk 11 De Thij
+17312;Wijk 12 De Graven Es
+17313;Wijk 13 De Essen
+17314;Wijk 14 Bekspring
+17501;Ommen
+17502;Arrien
+17503;Beerze
+17504;Beerzerveld
+17505;Dalmsholte
+17506;Giethmen
+17507;Lemele
+17508;Stegeren
+17509;Vilsteren
+17510;Vinkenbuurt
+17511;Witharen
+17700;Wijk 00 Raalte-Kern
+17701;Wijk 01 Raalte-overig en buitengebied
+17702;Wijk 02 Heeten
+17703;Wijk 03 Luttenberg
+17704;Wijk 04 Broekland
+17705;Wijk 05 Mariënheem
+17706;Wijk 06 Nieuw Heeten
+17708;Wijk 08 Heino
+17709;Wijk 09 Laag Zuthem
+17710;Wijk 10 Lierderholthuis
+18000;Wijk 00 Staphorst (kern)
+18001;Wijk 01 Rouveen (kern)
+18002;Wijk 02 Rouveen (buitengebied)
+18003;Wijk 03 Staphorst (buitengebied)
+18004;Wijk 04 IJhorst
+18005;Wijk 05 Punthorst
+18006;Wijk 06 Lankhorst
+18007;Wijk 07 Klooster
+18300;Wijk 00 Tubbergen
+18301;Wijk 01 Albergen
+18302;Wijk 02 Harbrinkhoek
+18303;Wijk 03 Geesteren
+18304;Wijk 04 Langeveen
+18305;Wijk 05 Vasse
+18306;Wijk 06 Reutum
+18307;Wijk 07 Fleringen
+18400;Wijk 00 Urk
+18900;Wijk 00 Wierden (kern)
+18901;Wijk 01 Landelijk gebied Wierden
+18902;Wijk 02 Hooge-Hexel
+18903;Wijk 03 Enter (kern)
+18904;Wijk 04 Landelijk gebied Enter
+18905;Wijk 05 Rectum - Notter - Zuna
+19310;Wijk 10 Binnenstad
+19311;Wijk 11 Diezerpoort
+19312;Wijk 12 Wipstrik
+19313;Wijk 13 Assendorp
+19314;Wijk 14 Kamperpoort-Veerallee
+19320;Wijk 20 Poort van Zwolle
+19321;Wijk 21 Westenholte
+19322;Wijk 22 Stadshagen
+19330;Wijk 30 Holtenbroek
+19331;Wijk 31 Aalanden
+19332;Wijk 32 Vechtlanden
+19340;Wijk 40 Berkum
+19341;Wijk 41 Marsweteringlanden
+19350;Wijk 50 Schelle
+19351;Wijk 51 Ittersum
+19352;Wijk 52 Soestweteringlanden
+19701;Wijk 01 Buitengebied Aalten
+19702;Wijk 02 Bredevoort
+19703;Wijk 03 Aalten Kern
+19704;Wijk 04 Dinxperlo
+20001;Centrum
+20002;West
+20003;Zuidwest
+20004;Zuid
+20005;Zuidoost
+20006;Oost
+20007;Noordoost
+20008;Noord
+20010;Uddel en omgeving
+20011;Hoog Soeren en Radio Kootwijk
+20012;Hoenderloo en omgeving
+20013;Loenen en omgeving
+20014;Beekbergen en omgeving
+20015;Lieren en omgeving
+20016;Klarenbeek en omgeving
+20017;Wenum Wiesel Beemte
+20201;Centrum
+20202;Spijkerkwartier
+20203;Arnhemse Broek
+20204;Presikhaaf-West
+20205;Presikhaaf-Oost
+20206;St. Marten/Sonsbeek
+20207;Klarendal
+20208;Velperweg e.o.
+20209;Alteveer/Cranevelt
+20210;Geitenkamp
+20211;Monnikenhuizen
+20212;Burgemeesterswijk/Hoogkamp
+20213;Schaarsbergen
+20214;Heijenoord/Lombok
+20215;Klingelbeek e.o.
+20216;Malburgen-West
+20217;Malburgen-Oost (Noord)
+20218;Malburgen-Oost (Zuid)
+20219;Vredenburg/Kronenburg
+20220;Elden
+20221;Elderveld
+20222;De Laar
+20223;Rijkerswoerd
+20224;Schuytgraaf
+20354;Wijk 54 Barneveld
+20355;Wijk 55 Voorthuizen
+20356;Wijk 56 Kootwijkerbroek
+20357;Wijk 57 Garderen
+20358;Wijk 58 Terschuur
+20359;Wijk 59 Stroe
+20360;Wijk 60 Zwartebroek
+20361;Wijk 61 De Glind
+20362;Wijk 62 Kootwijk
+20363;Wijk 63 Achterveld
+20901;Beuningen
+20902;Ewijk
+20903;Weurt
+20904;Winssen
+21301;Wijk 01 Empe
+21302;Wijk 02 Tonden
+21303;Wijk 03 Brummen
+21304;Wijk 04 Leuvenheim
+21305;Wijk 05 Hall
+21306;Wijk 06 Eerbeek
+21400;Wijk 00 Buren
+21401;Wijk 01 Beusichem
+21402;Wijk 02 Zoelen
+21403;Wijk 03 Lienden
+21404;Wijk 04 Ingen
+21405;Wijk 05 Maurik
+21406;Wijk 06 Ravenswaaij
+21600;Wijk 00
+22101;Wijk 01
+22201;Wijk 01 Doetinchem Centrum
+22202;Wijk 02
+22203;Wijk 03
+22204;Wijk 04
+22205;Wijk 05
+22206;Wijk 06
+22207;Wijk 07
+22208;Wijk 08
+22209;Wijk 09
+22211;Wijk 11 Buitengebied Doetinchem
+22231;Wijk 31 Wehl
+22500;Druten
+22501;Puiflijk
+22502;Afferden
+22503;Deest
+22504;Horssen
+22601;Wijk 01 Bedrijventerrein
+22602;Wijk 02 Buitengebied
+22603;Wijk 03 Duiven-Noord
+22604;Wijk 04 Duiven-Zuid
+22605;Wijk 05 Groessen
+22606;Wijk 06 Loo
+22801;Ede-Oost
+22802;Ede-West
+22803;Ede-Veldhuizen
+22804;Kernhem
+22805;Veluwse Poort
+22810;Ede-Zuid
+22811;Maandereng
+22812;Rietkampen
+22813;Bedrijventerrein
+22820;Buitengebied Ede
+22830;Bennekom
+22840;Lunteren
+22850;Ederveen
+22860;De Klomp
+22870;Harskamp
+22880;Wekerom
+22890;Otterlo
+23001;Wijk 01 Elburg
+23002;Wijk 02
+23003;Wijk 03 Doornspijk
+23200;Wijk 00 Epe
+23201;Wijk 01 Emst
+23202;Wijk 02 Vaassen
+23203;Wijk 03 Bosgebied
+23300;Wijk 00 Ermelo
+23301;Wijk 01 Speuld
+23600;Geldermalsen
+23601;Deil
+23602;Beesd
+23603;Buurmalsen
+23604;Meteren
+24301;Wijk 01 Binnenstad
+24302;Wijk 02 Waterfront
+24303;Wijk 03 Zeebuurt
+24304;Wijk 04 Friesegracht
+24305;Wijk 05 Stadsdennen
+24306;Wijk 06 De Sypel
+24307;Wijk 07 Stationsomgeving
+24308;Wijk 08 Stadsweiden
+24309;Wijk 09 Slingerbos
+24310;Wijk 10 Tweelingstad
+24311;Wijk 11 Frankrijk
+24312;Wijk 12 Drielanden
+24313;Wijk 13 Industrieterrein Lorentz
+24314;Wijk 14 Buitengebied Harderwijk
+24315;Wijk 15 Hierden
+24316;Wijk 16 Wolderwijd
+24400;Wijk 00 Hattem
+24401;Wijk 01 Polder Hattem en Molecaten
+24600;Wijk 00 Heerde
+24601;Wijk 01 Wapenveld
+25200;Wijk 00 Heumen
+25201;Wijk 01 Overasselt
+26200;Wijk 00 Lochem kern
+26201;Wijk 01 Lochem buitengebied
+26202;Wijk 02 Laren
+26203;Wijk 03 Barchem
+26204;Wijk 04 Gorssel
+26205;Wijk 01 Almen-Harfsen
+26300;Wijk 00 Kerkdriel
+26301;Wijk 01 Ammerzoden
+26302;Wijk 02 Hedel
+26303;Wijk 03 Heerewaarden
+26304;Wijk 04 Rossum
+26701;Nijkerk-stad
+26702;Appel, Driedorp, Kruishaar, Prinsenkamp en Slicht
+26703;Nijkerkerveen en Holkerveen
+26704;Arkemheen, Achterhoek, De Veenhuis
+26705;Hoevelaken
+26801;Wijk 01 Nijmegen-Centrum
+26802;Wijk 02 Nijmegen-Oost
+26803;Wijk 03 Nijmegen-Oud-West
+26804;Wijk 04 Nijmegen-Nieuw-West
+26805;Wijk 05 Nijmegen-Midden
+26806;Wijk 06 Nijmegen-Zuid
+26807;Wijk 07 Dukenburg
+26808;Wijk 08 Lindenholt
+26809;Wijk 09 Nijmegen-Noord
+26900;Wijk 00 Oldebroek
+26901;Wijk 01 Wezep
+26902;Wijk 02 Oosterwolde
+27300;Wijk 00 Putten
+27301;Wijk 01 Bosgebied en Krachtighuizen
+27401;Renkum Zuid
+27402;Renkum Noord
+27403;Heelsum ten westen van de rijksweg
+27404;Heelsum ten oosten van de rijksweg
+27405;Wolfheze ten zuiden van het spoor
+27406;Wolfheze ten noorden van het spoor
+27407;Buitengebied Doorwerth
+27408;Bebouwde kom Doorwerth
+27409;Heveadorp
+27410;Oosterbeek West
+27411;Oosterbeek Zuidoost
+27412;Oosterbeek Noordoost
+27500;Wijk 00 Dieren
+27501;Wijk 01 Rheden
+27502;Wijk 02 Velp
+27700;Wijk 00
+27900;Wijk 00
+28100;Tiel kern
+28101;Tiel-Noord
+28102;Wadenoijen en Kapel Avezaath
+28103;Tiel-Zuid
+28500;Wijk 00 Voorst
+28501;Wijk 01 Twello-Nijbroek
+28502;Wijk 02 Klarenbeek-Teuge
+28503;Wijk 03 Wilp
+28901;Noordwest
+28902;Wageningen Universiteit
+28903;De Weiden en Boomgaarden
+28904;De Horsten
+28905;Kortenoord
+28906;De Buurt
+28907;Boven- en Benedenbuurt
+28908;Nude
+28909;Centrum
+28910;Veluvia-Hamelakkers
+28911;Wageningen-Hoog
+28912;Buitengebied
+29300;Wijk 00
+29400;Wijk 00 Stad
+29401;Wijk 01 Land
+29600;Wijk 00 Wijchen buitengebied
+29601;Wijk 01 Wijchen kern
+29602;Wijk 02 Balgoij
+29603;Wijk 03 Batenburg
+29604;Wijk 04 Bergharen
+29605;Wijk 05 Hernen
+29606;Wijk 06 Leur
+29607;Wijk 07 Niftrik
+29608;Wijk 08 Alverna
+29700;Wijk 00 Zaltbommel
+29701;Wijk 01 Brakel
+29702;Wijk 02 Kerkwijk
+29703;Wijk 03 Nederhemert
+29900;Zevenaar
+29901;Babberich
+29902;Angerlo
+29903;Giesbeek
+29904;Lathum
+29905;Rijnstrangen
+29906;Pannerden
+29907;Aerdt
+29908;Herwen
+29909;Lobith
+29910;Tolkamer
+29911;Spijk
+30100;Wijk 00 Centrum - De Hoven
+30101;Wijk 01 Waterkwartier
+30102;Wijk 02 Noordveen
+30103;Wijk 03 Zuidwijken
+30104;Wijk 04 Leesten
+30105;Wijk 05 Warnsveld
+30200;Wijk 00 Nunspeet
+30201;Wijk 01 Elspeet-Vierhouten
+30301;Wijk 01 Dronten west
+30302;Wijk 02 Dronten Noord
+30303;Wijk 03 Dronten Midden
+30304;Wijk 04 Dronten Zuid
+30305;Wijk 05 Buitengebied Dronten
+30306;Wijk 06 Biddinghuizen
+30307;Wijk 07 Swifterbant
+30400;Wijk 00 Haaften
+30401;Wijk 01 Waardenburg en Opijnen
+30402;Wijk 02 Varik en Ophemert
+30701;Wijk 01 Stadskern
+30702;Wijk 02 Zonnehof
+30703;Wijk 03 Soesterkwartier
+30704;Wijk 04 Isselt
+30705;Wijk 05 Bosgebied
+30706;Wijk 06 De Koppel
+30707;Wijk 07 De Kruiskamp
+30708;Wijk 08 Schothorst Zuid
+30709;Wijk 09 Schothorst Noord
+30710;Wijk 10 Liendert
+30711;Wijk 11 Rustenburg
+30712;Wijk 12 Stoutenburg-Noord
+30713;Wijk 13 Schuilenburg
+30714;Wijk 14 Randenbroek
+30715;Wijk 15 Vermeerkwartier
+30716;Wijk 16 Leusderkwartier
+30717;Wijk 17 De Berg Zuid
+30718;Wijk 18 De Berg Noord
+30719;Wijk 19 Hoogland
+30720;Wijk 20 Zielhorst
+30721;Wijk 21 Kattenbroek
+30722;Wijk 22 Calveen
+30723;Wijk 23 Park Schothorst
+30724;Wijk 24 Nieuwland
+30725;Wijk 25 valleipoort
+30726;Wijk 26 Hooglanderveen
+30727;Wijk 27 Buitengebied West
+30728;Wijk 28 Vathorst-De Velden
+30729;Wijk 29 Vathorst-centrum
+30730;Wijk 30 Vathorst-De Bron
+30731;Wijk 31 Vathorst-De Laak
+30800;Wijk 00 Baarn
+30801;Wijk 01 Baarn-Noord, Eemdal en Eemland
+30802;Wijk 02 P.H.W.park
+30804;Wijk 04 Buitengebied
+30805;Wijk 05 Lage Vuursche
+31001;Westbroek
+31002;Hollandsche Rading
+31003;Maartensdijk
+31004;Groenekan
+31005;De Leijen
+31006;Bilthoven Noord
+31007;Bilthoven Zuid Oost
+31008;Bilthoven Zuid West
+31009;De Bilt West
+31010;De Bilt Oost
+31200;Wijk 00 Bunnik
+31201;Wijk 01 Odijk
+31202;Wijk 02 Werkhoven
+31300;Wijk 00
+31702;Eemnes
+32110;Wijk 10 Houten Noord-West
+32111;Wijk 11 Houten Noord-Oost
+32112;Wijk 12 Houten Zuid-West
+32113;Wijk 13 Houten Zuid-Oost
+32120;Wijk 20 Houten Buitengebied
+32130;Wijk 30 't Goy
+32131;Wijk 31 't Goy Buitengebied
+32140;Wijk 40 Tull en 't waal
+32141;Wijk 41 Tull en 't Waal Buitengebied
+32150;Wijk 50 Schalkwijk
+32151;Wijk 51 Schalkwijk Buitengebied
+32700;Wijk 00 Leusden-Centrum Oost
+32701;Wijk 01 Leusden-Centrum West
+32702;Wijk 02 Leusden-Zuid
+32703;Wijk 03 Achterveld
+32704;Wijk 04 Stoutenburg
+32705;Wijk 05 't Ruige Veld
+33100;Wijk 00 Lopik, Benschop en Polsbroek
+33500;Wijk 00
+33501;Wijk 01 Linschoten
+33502;Wijk 02 Willeskop
+33900;Wijk 00
+34000;Wijk 00 Rhenen
+34001;Wijk 01 Rhenen Oost
+34002;Wijk 02 Rhenen West
+34003;Wijk 03 Rhenen Noord
+34004;Wijk 04 Grebbeberg
+34005;Wijk 05 Randzone
+34006;Wijk 06 Binnenveld
+34007;Wijk 07 Achterberg
+34008;Wijk 08 Uiterwaarden Rhenen
+34009;Wijk 09 Remmerden
+34010;Wijk 10 Heuvelrug Rhenen
+34011;Wijk 11 Heuvelrug Elst
+34012;Wijk 12 Uiterwaarden Elst
+34013;Wijk 13 Elst
+34201;Wijk 01 't Hart-Soestdijk
+34202;Wijk 02 Klaarwater
+34203;Wijk 03 Boerenstreek
+34204;Wijk 04 de Eng-Soest-Midden
+34205;Wijk 05 Smitsveen
+34206;Wijk 06 Overhees
+34207;Wijk 07 Soest-Zuid
+34208;Wijk 08 Soesterberg
+34401;Wijk 01 West
+34402;Wijk 02 Noordwest
+34403;Wijk 03 Overvecht
+34404;Wijk 04 Noordoost
+34405;Wijk 05 Oost
+34406;Wijk 06 Binnenstad
+34407;Wijk 07 Zuid
+34408;Wijk 08 Zuidwest
+34409;Wijk 09 Leidsche Rijn
+34410;Wijk 10 Vleuten-De Meern
+34500;Wijk 00 Centrum
+34501;Wijk 01 Noordoost
+34502;Wijk 02 Zuidoost
+34503;Wijk 03 Zuidwest
+34504;Wijk 04 Noordwest
+34505;Wijk 05 West
+35100;Wijk 00 Woudenberg
+35200;Wijk 00 Wijk bij Duurstede
+35201;Wijk 01 Landelijk gebied
+35202;Wijk 02 Cothen
+35203;Wijk 03 Langbroek
+35300;Wijk 00 IJsselstein
+35501;Wijk 01 Centrum Zeist
+35502;Wijk 02 Zeist-Noord
+35503;Wijk 03 Zeist-West
+35504;Wijk 04 Zeist-Oost, Zeister Bos en omgeving
+35505;Wijk 05 Huis Ter Heide, Bosch en Duin
+35601;Jutphaas Wijkersloot
+35602;Zuilenstein
+35603;Batau Zuid
+35604;Batau Noord
+35605;Doorslag
+35606;Huis de Geer
+35607;Blokhoeve
+35608;Galecop
+35610;Fokkesteeg
+35611;Hoogzandveld
+35612;Lekboulevard
+35613;Vreeswijk
+35614;Merwestein
+35615;Park Oudegein
+35616;Zandveld
+35618;Het Klooster
+35620;Laagraven
+35621;Plettenburg
+35622;De Wiers
+35623;Hoge Landen
+35624;Stadscentrum
+35625;Rijnhuizen
+35800;Wijk 00 Aalsmeer
+35801;Wijk 01 Kudelstraat en Kalslagen
+35802;Wijk 02 Oosteinde
+36101;Zuid
+36102;Oudorp
+36103;Overdie
+36104;West
+36105;Huiswaard
+36106;De Mare
+36107;Daalmeer/Koedijk
+36108;Centrum
+36109;Schermer
+36110;Graft-De Rijp
+36111;Vroonermeer
+36201;Randwijck
+36202;Patrimonium
+36203;Elsrijk
+36204;Stadshart
+36205;Uilenstede, Kronenburg
+36206;Bankras, Kostverloren
+36207;Buitengebied Noord
+36208;Keizer Karelpark
+36209;Groenelaan
+36210;Waardhuizen, Middenhoven
+36211;Bovenkerk - Westwijk Noord
+36212;Westwijk Zuid
+36213;Buitengebied Zuid
+36214;Amsterdamse Bos
+36300;Burgwallen-Oude Zijde
+36301;Burgwallen-Nieuwe Zijde
+36302;Grachtengordel-West
+36303;Grachtengordel-Zuid
+36304;Nieuwmarkt/Lastage
+36305;Haarlemmerbuurt
+36306;Jordaan
+36307;De Weteringschans
+36308;Weesperbuurt/Plantage
+36309;Oostelijke Eilanden/Kadijken
+36310;Westelijk Havengebied
+36311;Bedrijventerrein Sloterdijk
+36312;Houthavens
+36313;Spaarndammer- en Zeeheldenbuurt
+36314;Staatsliedenbuurt
+36315;Centrale Markt
+36316;Frederik Hendrikbuurt
+36317;Da Costabuurt
+36318;Kinkerbuurt
+36319;Van Lennepbuurt
+36320;Helmersbuurt
+36321;Overtoomse Sluis
+36322;Vondelbuurt
+36323;Zuidas
+36324;Oude Pijp
+36325;Nieuwe Pijp
+36326;Zuid Pijp
+36327;Weesperzijde
+36328;Oosterparkbuurt
+36329;Dapperbuurt
+36330;Transvaalbuurt
+36331;Indische Buurt West
+36332;Indische Buurt Oost
+36333;Oostelijk Havengebied
+36334;Zeeburgereiland/Nieuwe Diep
+36335;IJburg West
+36336;Sloterdijk
+36337;Landlust
+36338;Erasmuspark
+36339;De Kolenkit
+36340;Geuzenbuurt
+36341;Van Galenbuurt
+36342;Hoofdweg e.o.
+36343;Westindische Buurt
+36344;Hoofddorppleinbuurt
+36345;Schinkelbuurt
+36346;Willemspark
+36347;Museumkwartier
+36348;Stadionbuurt
+36349;Apollobuurt
+36350;IJburg Oost
+36351;IJburg Zuid
+36352;Scheldebuurt
+36353;IJselbuurt
+36354;Rijnbuurt
+36355;Frankendael
+36356;Middenmeer
+36357;Betondorp
+36358;Omval/Overamstel
+36359;Prinses Irenebuurt e.o.
+36360;Volewijck
+36361;IJplein/Vogelbuurt
+36362;Tuindorp Nieuwendam
+36363;Tuindorp Buiksloot
+36364;Nieuwendammerdijk/Buiksloterdijk
+36365;Tuindorp Oostzaan
+36366;Oostzanerwerf
+36367;Kadoelen
+36368;Waterlandpleinbuurt
+36369;Buikslotermeer
+36370;Banne Buiksloot
+36371;Noordelijke IJ-oevers West
+36372;Noordelijke IJ-oevers Oost
+36373;Waterland
+36374;Elzenhagen
+36375;Chassébuurt
+36376;Slotermeer-Noordoost
+36377;Slotermeer-Zuidwest
+36378;Geuzenveld
+36379;Eendracht
+36380;Lutkemeer/Ookmeer
+36381;Osdorp-Oost
+36382;Osdorp-Midden
+36383;De Punt
+36384;Middelveldsche Akerpolder
+36385;Slotervaart Noord
+36386;Overtoomse Veld
+36387;Westlandgracht
+36388;Sloter-/Riekerpolder
+36389;Slotervaart Zuid
+36390;Buitenveldert-West
+36391;Buitenveldert-Oost
+36392;Amstel III/Bullewijk
+36393;Bijlmer Centrum (D,F,H)
+36394;Bijlmer Oost (E,G,K)
+36395;Nellestein
+36396;Holendrecht/Reigersbos
+36397;Gein
+36398;Driemond
+37000;Wijk 00 Beemster
+37001;Wijk 01 Zuidoostbeemster
+37301;Wijk 01 Bergen Binnen
+37302;Wijk 02 Bergen aan Zee
+37303;Wijk 03 Buitengebied Bergen
+37304;Wijk 04 Egmond aan Zee
+37305;Wijk 05 Egmond-Binnen
+37306;Wijk 06 Egmond aan den Hoef
+37307;Wijk 07 Schoorl
+37500;Centrum
+37501;Vondelkwartier
+37502;Oranjebuurt
+37503;Kuenenkwartier
+37504;Warande
+37505;Noordwestelijk tuinbouwgebied
+37506;Oosterwijk en Zwaansmeer
+37507;Meerestein
+37508;Wijk aan Zee
+37509;de Pijp en Wijkerbroek
+37510;Broekpolder
+37601;Blaricum
+37700;Wijk 00 Bloemendaal
+37701;Wijk 01 Overveen
+37702;Wijk 02 Aerdenhout
+37703;Wijk 03 Vogelenzang
+37704;Wijk 04 Bennebroek
+38300;Wijk 00 Centrum
+38301;Wijk 01 Castricum-Noord
+38302;Wijk 02 Castricum-Oost
+38303;Wijk 03 Castricum-Zuid
+38304;Wijk 04 Bakkum
+38305;Wijk 05 Akersloot
+38306;Wijk 06 De Woude
+38307;Wijk 07 Limmen
+38400;Wijk 00 Diemen-Zuid
+38401;Wijk 01 Diemen-Centrum
+38402;Wijk 02 Diemen-Noord
+38500;Wijk 00 Edam
+38501;Wijk 01 Purmer
+38502;Wijk 02 Volendam
+38503;Wijk 03 Beets
+38504;Wijk 04 Oosthuizen
+38505;Wijk 05 Warder
+38506;Wijk 06 Middelie
+38507;Wijk 07 Kwadijk
+38508;Wijk 08 Schardam
+38509;Wijk 09 Hobrede
+38800;Wijk 00
+38801;Wijk 01
+39201;Oude Stad
+39202;Haarlemmerhoutkwartier
+39203;Zijlwegkwartier
+39204;Houtvaartkwartier
+39205;Duinwijk
+39206;Waarder- en Veerpolder
+39207;Amsterdamsewijk
+39208;Slachthuiswijk
+39209;Parkwijk
+39210;Transvaalwijk
+39211;Indischewijk
+39212;Ter Kleefkwartier
+39213;Te Zaanenkwartier
+39214;Vogelenwijk
+39215;Delftwijk
+39216;Vondelkwartier
+39217;Spaarndam
+39218;Europawijk
+39219;Boerhaavewijk
+39220;Molenwijk
+39221;Meerwijk
+39300;Wijk 00
+39401;Hoofddorp
+39402;Nieuw-Vennep
+39403;Zwanenburg
+39404;Lijnden / Boesingheliede
+39405;Badhoevedorp
+39406;Aalsmeerderbrug/ Oude Meer/ Rozenburg / Schiphol
+39407;Rijsenhout
+39408;Burgerveen / Leimuiderbrug / Weteringbrug
+39409;Abbenes / Buitenkaag
+39410;Lisserbroek
+39411;Beinsdorp
+39412;Zwaanshoek
+39413;Cruquius
+39415;Vijfhuizen
+39416;Schiphol
+39601;Wijk 01 Heemskerk-Dorp
+39602;Wijk 02 Commandeurs en Marquette
+39603;Wijk 03 Hofland, Oosterwijk en Zuidbroek
+39604;Wijk 04 Heemskerkerduin en Noorddorp
+39605;Wijk 05 Poelenburg en Oosterzij
+39606;Wijk 06 Noordbroek en De Trompet
+39607;Wijk 07 Kerkbeek
+39608;Wijk 08 Assumburg
+39609;Wijk 09 Hoogdorp en Waterakkers
+39610;Wijk 10 Broekpolder
+39611;Wijk 11 Oostelijk Heemskerk
+39700;Wijk 00 Heemstede-Centrum
+39701;Wijk 01 Heemstede-Zuid
+39702;Wijk 02 Heemstede west van de spoorbaan
+39801;Wijk 01 Schrijverswijk
+39802;Wijk 02 Schilderswijk
+39804;Wijk 04 Planetenwijk
+39806;Wijk 06 Bomen- Recreatiewijk
+39807;Wijk 07 Heemradenwijk
+39808;Wijk 08 Edelstenenwijk
+39809;Wijk 09 Stadshart
+39810;Wijk 10 Molenwijk
+39811;Wijk 11 Rivierenwijk
+39812;Wijk 12 Bedrijventerrein
+39813;Wijk 13 Butterhuizen
+39814;Wijk 14 Oostertocht
+39815;Wijk 15 Zuidwijk
+39816;Wijk16 Huygenhoek
+39817;Wijk 17 Stad van de Zon
+39818;Wijk 18 De Draai
+39819;Wijk 19 Broekhorn
+39820;Wijk 20 De Noord
+39830;Wijk 30 Buitengebied Noord
+39840;Wijk 40 't Kruis
+39850;Wijk 50 Buitengebied Zuid
+39901;Wijk 01 Blockhovepark
+39902;Wijk 02 Heiloo Noord-West
+39903;Wijk 03 Heiloo-Midden
+39904;Wijk 04 Heiloo-West
+39905;Wijk 05 Stationsomgeving
+39906;Wijk 06 Ypestein
+39907;Wijk 07 Heiloo-Oost
+39908;Wijk 08 Heiloo Zuid-West
+40001;Wijk 01 Stad binnen de Linie-Oost
+40002;Wijk 02 Stad binnen de Linie-West
+40003;Wijk 03 Nieuw Den Helder-West
+40004;Wijk 04 Nieuw Den Helder-Oost
+40005;Wijk 05 De Schooten
+40006;Wijk 06 Het Koegras
+40007;Wijk 07 Duinzoom
+40008;Wijk 08 Julianadorp
+40201;Centrum
+40202;Noordwest
+40203;Zuidwest
+40204;Zuid
+40205;Zuidoost
+40206;Oost
+40207;Noordoost
+40208;Hilversumse Meent
+40209;Landelijk Gebied
+40510;Wijk 10 Binnenstad
+40511;Wijk 11 Venenlaan-kwartier
+40512;Wijk 12 Hoorn-Noord
+40513;Wijk 13 Grote Waal
+40520;Wijk 20 Risdam-Zuid
+40521;Wijk 21 Risdam-Noord
+40522;Wijk 22 Nieuwe Steen
+40530;Wijk 30 Zwaag
+40531;Wijk 31 Blokker
+40532;Wijk 32 Kersenboogerd-Noord
+40533;Wijk 33 Kersenboogerd-Zuid
+40534;Wijk 34 Hoorn 80
+40535;Wijk 35 Bangert en Oosterpolder
+40536;Wijk 36 Noord
+40600;Wijk 00 Oude Dorp
+40601;Wijk 01 Westereng
+40602;Wijk 02 Buitenwijken
+40603;Wijk 03 Erica en Tafelberg
+40604;Wijk 04 Staatslieden en Componistenbuurt
+40605;Wijk 05 Havengebied
+40606;Wijk 06 Zenderwijk en Bovenweg
+40607;Wijk 07 Stad en Lande
+40608;Wijk 08 Huizermaat West en Zuid
+40609;Wijk 09 Huizermaat Noord
+40610;Wijk 10 Bijvanck
+40611;Wijk 11 Bovenmaten
+40612;Wijk 12 Hogemaat
+41500;Wijk 00 Landsmeer
+41501;Wijk 01 Ilpendam
+41600;Wijk 00
+41703;Laren
+42000;Wijk 00
+42001;Wijk 01 Wognum
+42002;Wijk 02 Nibbixwoud en Wijzend
+42003;Wijk 03 Zwaagdijk-West
+42004;Wijk 04 Noorder Koggenland
+42005;Wijk 05 Sijbekarspel
+42006;Wijk 06 Hauwert
+42007;Wijk 07 Twisk
+42008;Wijk 08 Opperdoes
+42009;Wijk 09 Abbebroek
+42010;Wijk 00 Andijk
+42011;Wijk 11 Wervershoof
+42012;Wijk 12 Zwaagdijk
+43100;Wijk 00
+43200;Wijk 00
+43201;Wijk 01
+43202;Wijk 02
+43700;Wijk 00
+43901;Wijk 01 Centrum
+43902;Wijk 02 Overwhere
+43903;Wijk 03 Wheermolen
+43904;Wijk 04 Gors
+43905;Wijk 05 Purmer-Noord
+43906;Wijk 06 Purmer-Zuid
+43907;Wijk 07 Weidevenne
+44100;Wijk 00
+44101;Wijk 01 Harenkarspel
+44102;Wijk 02 Sint Maarten
+44103;Wijk 03 Warmenhuizen
+44104;Wijk 04 Zijpe
+44800;Wijk 00 Het Oude Land en duingebied
+44801;Wijk 01 Het Nieuwe Land
+45000;Wijk 00 Uitgeest
+45115;Wijk 15 Dorpscentrum
+45125;Wijk 25 Thamerdal
+45135;Wijk 35 Zijdelwaard
+45145;Wijk 45 Legmeer
+45150;Wijk 50 Langs de Vuurlinie
+45155;Wijk 55 Veilinggebied
+45165;Wijk 65 Meerwijk
+45175;Wijk 75 Bedrijventerrein
+45185;Wijk 85 Meerwijk
+45190;Wijk 90 Glastuinbouwgebied
+45195;Wijk 95 Veenweidegebied
+45300;Wijk 00 Velsen-Zuid en Driehuis
+45301;Wijk 01 IJmuiden-Noord
+45302;Wijk 02 IJmuiden-Zuid
+45303;Wijk 03 IJmuiden-West
+45304;Wijk 04 Zee- en Duinwijk
+45305;Wijk 05 Velsen-Noord
+45306;Wijk 06 Santpoort-Noord
+45307;Wijk 07 Santpoort-Zuid
+45308;Wijk 08 Velserbroek
+45309;Wijk 09 Spaarndammerpolder
+45700;Binnenstad
+45701;Zuid
+45702;Noord
+45703;Hogewey
+45704;Aetsveld
+45707;Aetsveldsepolder
+45708;Oostelijke Vechtoever
+45709;Bloemendalerpolder
+47301;Zandvoort Noord
+47302;Zandvoort Zuid
+47303;Bentveld
+47304;Buitengebied
+47911;Wijk 11 Zaandam Zuid
+47912;Wijk 12 Poelenburg
+47913;Wijk 13 Pelders- en Hoornseveld
+47914;Wijk 14 Rosmolenwijk
+47915;Wijk 15 Kogerveldwijk
+47916;Wijk 16 Zaandam Noord
+47921;Wijk 21 Oude Haven
+47922;Wijk 22 Zaandam West
+47923;Wijk 23 Nieuw West
+47931;Wijk 31 Oud Koog a/d Zaan
+47932;Wijk 32 Westerkoog
+47941;Wijk 41 Oud Zaandijk
+47942;Wijk 42 Rooswijk
+47951;Wijk 51 Wormerveer
+47961;Wijk 61 Krommenie Oost
+47962;Wijk 62 Krommenie West
+47971;Wijk 71 Assendelft-Zuid
+47972;Wijk 72 Assendelft-Noord
+47981;Wijk 81 Westzaan
+48201;Wijk 01 Centrum
+48202;Wijk 02 Kinderdijk
+48203;Wijk 03 Blokweer
+48204;Wijk 04 Souburgh
+48205;Wijk 05 Bedrijventerrein
+48206;Wijk 06 Landelijk gebied
+48401;Oudshoorn
+48402;Ridderveld
+48403;Zegersloot
+48404;Hoorn
+48405;Hoge Zijde
+48406;Lage Zijde
+48407;Steekterpolder
+48408;Kerk en Zanen
+48409;Rietveld
+48431;Benthuizen
+48445;Aarlanderveen
+48470;Boskoop
+48471;Zwammerdam
+48491;Hazerswoude-Dorp
+48494;Hazerswoude-Rijndijk
+48496;Koudekerk aan den Rijn
+48901;Wijk 01 Centrum
+48902;Wijk 02 Noord
+48903;Wijk 03 Binnenland
+48904;Wijk 04 Oranjewijk
+48905;Wijk 05 Buitenoord
+48906;Wijk 06 Ter Leede
+48907;Wijk 07 Paddewei
+48908;Wijk 08 Molenvliet
+48909;Wijk 09 Nieuweland
+48910;Wijk 10 Dorpzicht
+48911;Wijk 11 Bijdorp
+48912;Wijk 12 Smitshoek
+48913;Wijk 13 Voordijk
+48914;Wijk 14 Meerwede
+48915;Wijk 15 Waterkant
+48916;Wijk 16 Havenkwartier
+48917;Wijk 17 Gaatkensoog
+48918;Wijk 18 Riederhoek
+48919;Wijk 19 Vrijheidsakker
+48920;Wijk 20 Vrijenburg
+48930;Wijk 30 Buitengebied Noord
+48931;Wijk 31 Buitengebied Zuid
+48950;Wijk 50 Bedrijventerreinen
+49800;Wijk 00 Hoogkarspel
+49801;Wijk 01 Westwoud
+49802;Wijk 02 Oosterblokker
+49803;Wijk 03 Venhuizen
+49804;Wijk 04 Wijdenes
+49805;Wijk 05 Schellinkhout
+50100;Wijk 00 Brielle
+50101;Wijk 01 Vierpolders
+50102;Wijk 02 Zwartewaal
+50103;Wijk 03 Recreatiestrook Brielse Maas
+50201;Capelle West en 's Gravenland
+50202;Middelwatering West
+50203;Middelwatering Oost
+50204;Oostgaarde Zuid
+50205;Oostgaarde Noord
+50206;Schenkel
+50207;Schollevaar Zuid
+50208;Schollevaar Noord
+50209;Rivium
+50311;Wijk 11 Binnenstad
+50312;Wijk 12 Vrijenban
+50313;Wijk 13 Hof van Delft
+50314;Wijk 14 Voordijkshoorn
+50316;Wijk 16 Delftse Hout
+50322;Wijk 22 Tanthof-West
+50323;Wijk 23 Tanthof-Oost
+50324;Wijk 24 Voorhof
+50325;Wijk 25 Buitenhof
+50326;Wijk 26 Abtswoude
+50327;Wijk 27 Schieweg
+50328;Wijk 28 Wippolder
+50329;Wijk 29 Ruiven
+50501;Wijk 01 Binnenstad
+50502;Wijk 02 Noordflank
+50503;Wijk 03 Oud Krispijn
+50504;Wijk 04 Nieuw-krispijn
+50505;Wijk 05 Het Reeland
+50506;Wijk 06 Staart
+50507;Wijk 07 Wielwijk
+50508;Wijk 08 Crabbehof/Zuidhoven
+50509;Wijk 09 Sterrenburg
+50510;Wijk 10 Dubbeldam
+50511;Wijk 11 Stadspolders
+50519;Wijk 19 Industriegebied West
+50598;Wijk 98 Verspreide bebouwing
+51201;Wijk 01 Gorinchem binnenstad
+51202;Wijk 02 Wijdschild
+51203;Wijk 03 Lingewijk
+51204;Wijk 04 haarwijk
+51205;Wijk 05 Stalkaarsen
+51206;Wijk 06 Gildenwijk
+51207;Wijk 07 Schelluinsestraat
+51208;Wijk 08 Avelingen Oost
+51209;Wijk 09 Avelingen West
+51210;Wijk 10 Molenvliet
+51211;Wijk 11 laag Dalem
+51212;Wijk 12 Dalem
+51213;Wijk 13 Hoog Dalem
+51214;Wijk 14 Bedrijventerrein Oost
+51215;Wijk 15 Papland
+51216;Wijk 16 schotdeuren
+51217;Wijk 17 Bedrijventerrein Noord
+51218;Wijk 18 Landelijk gebied West
+51219;Wijk 19 Landelijk gebied Noord
+51220;Wijk 20 Landelijk gebied Oost
+51221;Wijk 21 Landelijk gebied Zuid
+51301;Binnenstad
+51302;De Korte Akkeren
+51303;Bloemendaal
+51304;Plaswijck
+51305;Noord
+51306;Kort Haarlem
+51307;Goverwelle
+51308;Stolwijkersluis
+51309;Westergouwe
+51801;Wijk 01 Oostduinen
+51802;Wijk 02 Belgisch Park
+51803;Wijk 03 Westbroekpark en Duttendel
+51804;Wijk 04 Benoordenhout
+51805;Wijk 05 Archipelbuurt
+51806;Wijk 06 Van Stolkpark en Scheveningse Bosjes
+51807;Wijk 07 Scheveningen
+51808;Wijk 08 Duindorp
+51809;Wijk 09 Geuzen- en Statenkwartier
+51810;Wijk 10 Zorgvliet
+51811;Wijk 11 Duinoord
+51812;Wijk 12 Bomen- en Bloemenbuurt
+51813;Wijk 13 Vogelwijk
+51814;Wijk 14 Bohemen en Meer en Bos
+51815;Wijk 15 Kijkduin en Ockenburgh
+51816;Wijk 16 Kraayenstein en de Uithof
+51817;Wijk 17 Loosduinen
+51818;Wijk 18 Waldeck
+51819;Wijk 19 Vruchtenbuurt
+51820;Wijk 20 Valkenboskwartier
+51821;Wijk 21 Regentessekwartier
+51822;Wijk 22 Zeeheldenkwartier
+51823;Wijk 23 Willemspark
+51824;Wijk 24 Haagse Bos
+51825;Wijk 25 Mariahoeve en Marlot
+51826;Wijk 26 Bezuidenhout
+51827;Wijk 27 Stationsbuurt
+51828;Wijk 28 Centrum
+51829;Wijk 29 Schildersbuurt
+51830;Wijk 30 Transvaalkwartier
+51831;Wijk 31 Rustenburg en Oostbroek
+51832;Wijk 32 Leyenburg
+51833;Wijk 33 Bouwlust en Vrederust
+51834;Wijk 34 Morgenstond
+51835;Wijk 35 Zuiderpark
+51836;Wijk 36 Moerwijk
+51837;Wijk 37 Groente- en Fruitmarkt
+51838;Wijk 38 Laakkwartier en Spoorwijk
+51839;Wijk 39 Binckhorst
+51840;Wijk 40 Wateringse Veld
+51841;Wijk 41 Hoornwijk
+51842;Wijk 42 Ypenburg
+51843;Wijk 43 Forepark
+51844;Wijk 44 Leidschenveen
+52300;Wijk 00
+53000;Wijk 00 Hellevoet
+53001;Wijk 01 Nieuw-Helvoet
+53002;Wijk 02 Nieuwenhoorn
+53003;Wijk 03 De Struyten
+53004;Wijk 04 De Kooistee
+53005;Wijk 05 Den Bonsen Hoek
+53006;Wijk 06 Ravense Hoek
+53007;Wijk 07 Centrumgebied
+53008;Wijk 08 Kickers Bloem
+53009;Wijk 09 Buitengebied
+53010;Oudenhoorn
+53101;Wijk 01 Centrum
+53102;Wijk 02 Krommeweg
+53103;Wijk 03 De Volgerlanden
+53104;Wijk 04 Sandelingen-Ambacht
+53105;Wijk 05 De Oevers
+53200;Wijk 00
+53201;Wijk 01
+53401;Centrum
+53402;Noord
+53403;Elsbroek
+53404;Buitengebied
+53701;Katwijk Noord
+53702;'t Heen
+53703;Katwijk aan den Rijn
+53705;Katwijk aan Zee
+53706;Landelijk gebied Katwijk
+53707;Rijnsburg
+53708;Valkenburg
+54200;Wijk 00 Krimpen aan den IJssel
+54500;Wijk 00 Leerdam
+54600;Binnenstad-Zuid
+54601;Binnenstad-Noord
+54602;Stationsdistrict
+54603;Leiden-Noord
+54604;Roodenburgerdistrict
+54605;Bos- en Gasthuisdistrict
+54606;Morsdistrict
+54607;Boerhaavedistrict
+54608;Merenwijkdistrict
+54609;Stevenshofdistrict
+54700;Wijk 00
+54701;Wijk 01
+54702;Wijk 02
+55301;Wijk 01 De Loosters
+55302;Wijk 02 Halfweg
+55303;Wijk 03 Meer en Duin
+55304;Wijk 04 De Blinkerd
+55305;Wijk 05 Meerenburgh
+55306;Wijk 06 Oranjewijk
+55307;Wijk 07 Zeeheldenwijk
+55308;Wijk 08 Bloemenwijk
+55309;Wijk 09 Centrum
+55310;Wijk 10 Berkhout
+55311;Wijk 11 Van Rijckevorsel
+55312;Wijk 12 Componistenwijk
+55313;Wijk 13 Schilderswijk
+55314;Wijk 14 Vogelwijk
+55315;Wijk 15 Dever
+55316;Wijk 16 Geestwater
+55317;Wijk 17 Vrouwenpolder
+55318;Wijk 18 Lisse Rond
+55319;Wijk 19 De Engel
+55320;Wijk 20 Ter Beek
+55321;Wijk 21 Roovers Broek
+55601;Wijk 01 Taanschuurpolder
+55602;Wijk 02 Dijkpolder
+55603;Sluispolder
+55604;Wijk 04 Kapelpolder
+55605;Wijk 05 Burgemeesterswijk
+55606;Wijk 06 Steendijkpolder
+55607;Wijk 07 Aalkeetpolder
+55608;Wijk 08 Wilgenrijk
+56900;Wijk 00
+56901;Wijk 01 Nieuwveen
+56902;Wijk 02 Zevenhoven
+56903;Wijk 03 Ter Aar
+57500;Wijk 00 Noordwijk-Binnen
+57501;Wijk 01 Noordwijk Aan Zee
+57600;Wijk 00
+57900;Wijk 00 Oegstgeest
+58400;Wijk 00
+58500;Wijk 00 Heinenoord
+58501;Wijk 01 Mijnsheerenland
+58502;Wijk 02 Westmaas
+58503;Wijk 03 Maasdam
+58504;Wijk 04 Puttershoek
+58505;Wijk 05 's-Gravendeel
+58800;Wijk 00 Nieuw-Beijerland
+58801;Wijk 01 Piershil
+58802;Wijk 02 Goudswaard
+58803;Wijk 03 Zuid-Beijerland
+58901;Hekendorp
+58902;Oudewater
+58903;Papekop
+58904;Snelrewaard
+59000;Wijk 00 Papendrecht
+59701;Centrum
+59702;West
+59703;Oost
+59704;Drievliet
+59705;Het Zand
+59706;Slikkerveer
+59707;Bolnes
+59708;Rijsoord
+59709;Oostendam
+59710;Donkersloot
+59711;Verenambacht
+59712;Cornelisland
+59901;Rotterdam Centrum
+59903;Delfshaven
+59904;Overschie
+59905;Noord
+59906;Hillegersberg-Schiebroek
+59908;Kralingen-Crooswijk
+59910;Feijenoord
+59912;IJsselmonde
+59913;Pernis
+59914;Prins Alexander
+59915;Charlois
+59916;Hoogvliet
+59917;Hoek van Holland
+59918;Spaanse Polder
+59919;Nieuw Mathenesse
+59921;Waalhaven-Eemhaven
+59922;Vondelingenplaat
+59923;Botlek-Europoort-Maasvlakte
+59924;Rotterdam-Noord-West
+59925;Rivium
+59926;Bedrijventerrein Schieveen
+59927;Rozenburg
+60301;Wijk 01
+60302;Wijk 02
+60303;Wijk 03
+60304;Wijk 04
+60305;Wijk 05
+60306;Wijk 06
+60307;Wijk 07
+60308;Wijk 08
+60309;Wijk 09
+60310;Wijk 10
+60311;Wijk 11
+60600;Wijk 00 Centrum
+60601;Wijk 01 Oost
+60602;Wijk 02 Tussen Havens en Grachten
+60603;Wijk 03 West
+60604;Wijk 04 Zuid
+60605;Wijk 05 Nieuw Mathenesse
+60606;Wijk 06 Nieuwland
+60607;Wijk 07 Groenoord en Kethel
+60608;Wijk 08 Industriegebied ten noorden van Rijksweg
+60609;Wijk 09 Woudhoek/Spaland /Sveaparken
+61001;Wijk 01 Sliedrecht-West
+61002;Wijk 02 Sliedrecht-Centrum
+61003;Wijk 03 Sliedrecht-Oost
+61004;Wijk 04 Sliedrecht-Noord
+61100;Wijk 00 Numansdorp
+61101;Wijk 01 Klaaswaal
+61301;Wijk 01 Poortugaal-Noord
+61302;Wijk 02 Rhoon-Noord
+61303;Wijk 03 Poortugaal-Zuid
+61304;Wijk 04 Rhoon-Zuid
+61305;Wijk 05 Buitengebied Albrandswaard
+61306;Wijk 06 Portland
+61307;Wijk 07 Rotterdam-Albrandswaard
+61400;Wijk 00 Rockanje
+61401;Wijk 01 Oostvoorne
+61700;Wijk 00 Strijen en buitengebied
+62000;Wijk 00 Vianen
+62001;Wijk 01 Hagestein
+62002;Wijk 02 Everdingen
+62201;Centrum
+62202;Westwijk
+62203;Vettenoordse Polder
+62204;Oostwijk
+62205;Vlaardinger Ambacht
+62206;Holy Zuid
+62207;Holy Noord
+62208;Broekpolder
+62600;Wijk 00
+62701;Wijk 01
+62702;Wijk 02
+62703;Wijk 03
+62704;Wijk 04
+62900;Wijk 00 Zuidwestelijk deel der gemeente
+62901;Wijk 01 Noordoostelijk deel der gemeente
+63201;Wijk 01 Woerden-Midden
+63202;Wijk 02 Woerden-West
+63203;Wijk 03 Woerden-Oost
+63204;Wijk 04 Buitengebied Woerden-West
+63205;Wijk 05 Buitengebied Woerden-Oost
+63206;Wijk 06 Harmelen
+63207;Wijk 07 Kamerik
+63208;Wijk 08 Zegveld
+63700;Centrum
+63701;Meerzicht
+63702;Buytenwegh de Leyens
+63703;Seghwaert
+63704;Noordhove
+63705;Rokkeveen
+63706;Oosterheem
+63708;Industriegebied
+63709;Buitengebied
+63800;Zoeterwoude-Dorp
+63801;Westeinde
+63802;Zuidbuurt
+63803;Weipoort
+63804;Gelderswoude
+63809;Verspreide huizen
+63810;Zoeterwoude-Rijndijk
+64201;Wijk 01 Walburg
+64202;Wijk 02 Centrum
+64203;Wijk 03 Noord
+64204;Wijk 04 Heer Oudelands Ambacht
+64205;Wijk 05 Kort Ambacht
+64206;Wijk 06 Nederhoven
+64207;Wijk 07 Verspreide bebouwing
+64208;Wijk 08 Bebouwde kom Heerjansdam
+64209;Wijk 09 Landelijk gebied Heerjansdam
+65401;Baarland
+65402;Borssele
+65403;Driewegen
+65404;Ellewoutsdijk
+65405;Heinkenszand
+65406;Hoedekenskerke
+65407;Kwadendamme
+65408;Lewedorp
+65409;Nieuwdorp
+65410;Nisse
+65411;Oudelande
+65412;Ovezande
+65413;'s-Gravenpolder
+65414;'s-Heer Abtskerke
+65415;'s-Heerenhoek
+66401;Wijk 01 Goes
+66402;Wijk 02 Wilhelminadorp
+66403;Wijk 03 Kloetinge
+66404;Wijk 04 Kattendijke
+66405;Wijk 05 's-Heer-Arendskerke
+66406;Wijk 06 Eindewege
+66407;Wijk 07 's-Heer-Hendrikskinderen
+66408;Wijk 08 Wolphaartsdijk
+66409;Wijk 09 Oud-Sabbinge
+66801;Wijk 01 Alphen
+66802;Wijk 02 Altforst
+66803;Wijk 03 Appeltern
+66804;Wijk 04 Beneden-Leeuwen
+66805;Wijk 05 Boven-Leeuwen
+66806;Wijk 06 Dreumel
+66807;Wijk 07 Maasbommel
+66808;Wijk 08 Wamel
+67701;Wijk 01 Hulst
+67702;Wijk 02 St. Jansteen
+67703;Wijk 03 Clinge
+67704;Wijk 04 Grauw
+67705;Wijk 05 Heikant
+67706;Wijk 06 Nieuw Namen
+67707;Wijk 07 Kapellebrug
+67708;Wijk 08 Kloosterzande
+67709;Wijk 09 Lamswaarde
+67710;Wijk 10 Ter Hole
+67711;Wijk 11 Vogelwaarde
+67712;Wijk 12 Hengstdijk
+67713;Wijk 13 Ossenisse
+67800;Wijk 00 Kapelle
+67801;Wijk 01 Wemeldinge
+67802;Wijk 02 Schore
+68700;Middelburg-Centrum
+68701;Middelburg-Noord
+68702;Middelburg-Zuidwest
+68703;Middelburg-Zuidoost
+68704;Nieuw- en Sint Joosland
+68705;Arnemuiden
+68900;Wijk 00 Kern Giessenburg
+68901;Wijk 01 Giessenburg-West en -Zuid
+68902;Wijk 02 Giessenburg-Oost
+68903;Wijk 03 Verspreide huizen Giessenburg
+68904;Wijk 04 Arkel
+68905;Wijk 05 Hoogblokland
+68906;Wijk 06 Hoornaar
+68907;Wijk 07 Noordeloos
+68908;Wijk 08 Schelluinen
+70300;Wijk 00 Yerseke
+70301;Wijk 01 Kruiningen
+70302;Wijk 02 Krabbendijke
+70303;Wijk 03 Waarde
+70304;Wijk 04 Rilland-Bath
+70305;Wijk 05 Hansweert
+70306;Wijk 06 Oostdijk
+70701;Wijk 01 Lexmond
+70702;Wijk 02 Ameide
+70703;Wijk 03 Tienhoven
+70704;Wijk 04 Meerkerk
+70705;Wijk 05 Hei- en Boeicop
+70706;Wijk 06 Leerbroek
+70707;Wijk 07 Nieuwland
+71501;Terneuzen Centrum
+71504;Terneuzen West
+71507;Terneuzen Zuid
+71510;Terneuzen Noord
+71513;Terneuzen Oost
+71516;Buitengebied Terneuzen
+71519;Kern Axel
+71522;Buitengebied Axel
+71525;Kern Biervliet
+71528;Buitengebied Biervliet
+71531;Kern Hoek
+71534;Buitengebied Hoek
+71537;Kern Koewacht
+71540;Buitengebied Koewacht
+71543;Kern Overslag
+71546;Buitengebied Overslag
+71549;Kern Philippine
+71552;Buitengebied Philippine
+71555;Kern Sas van Gent
+71558;Buitengebied Sas van Gent
+71561;Kern Sluiskil
+71564;Buitengebied Sluiskil
+71567;Kern Spui
+71570;Buitengebied Spui
+71573;Kern Westdorpe
+71576;Buitengebied Westdorpe
+71579;Kern Zaamslag
+71582;Buitengebied Zaamslag
+71585;Kern Zuiddorpe
+71588;Buitengebied Zuiddorpe
+71600;Tholen
+71601;Poortvliet
+71602;Scherpenisse
+71603;Sint-Maartensdijk
+71604;Stavenisse
+71605;Sint-Annaland
+71606;Oud-Vossemeer
+71607;Sint Philipsland
+71700;Wijk 00 Veere
+71701;Wijk 01 Gapinge
+71702;Wijk 02 Vrouwenpolder
+71703;Wijk 03 Serooskerke
+71704;Wijk 04 Domburg
+71705;Wijk 05 Oostkapelle
+71706;Wijk 06 Aagtekerke
+71707;Wijk 07 Grijpskerke
+71708;Wijk 08 Meliskerke
+71709;Wijk 09 Koudekerke
+71710;Wijk 10 Biggekerke
+71711;Wijk 11 Zoutelande
+71712;Wijk 12 Westkapelle
+71801;Binnenstad
+71802;Middengebied
+71803;Paauwenburg - Westduin
+71804;Lammerenburg
+71805;Oost-Souburg
+71806;Ritthem e.o.
+71807;Binnen- en Buitenhavens
+71808;Sloegebied
+73300;Wijk 00 Asperen
+73301;Wijk 01 Heukelum
+73302;Wijk 02 Vuren
+73303;Wijk 03 Herwijnen
+73601;Mijdrecht
+73602;de Hoef
+73603;Amstelhoek
+73604;Vinkeveen
+73605;Waverveen
+73606;Wilnis
+73607;Abcoude
+73608;Baambrugge
+73700;Wijk 00 Burgum
+73701;Wijk 01 Aldtsjerk
+73702;Wijk 02 Mûnein
+73703;Wijk 03 Ryptsjerk
+73704;Wijk 04 Tytsjerk
+73705;Wijk 05 Earnewâld
+73706;Wijk 06 Sumar
+73707;Wijk 07 Eastermar
+73708;Wijk 08 Noordburgum
+73709;Wijk 09 Hurdegaryp
+73800;Wijk 00 Wijk en Aalburg
+73801;Wijk 01 Veen
+73802;Wijk 02 Genderen
+73803;Wijk 03 Eethen
+73804;Wijk 04 Meeuwen
+73805;Wijk 05 Drongelen
+73806;Wijk 06 Babyloniënbroek
+74300;Wijk 00 Asten
+74301;Wijk 01 Heusden
+74302;Wijk 02 Ommel
+74308;Wijk 08
+74309;Wijk 09
+74400;Wijk 00 Baarle - Nassau
+74401;Wijk 01 Ulicoten
+74402;Wijk 02
+74800;Wijk 00 Bergen op Zoom-Oude stad en omgeving
+74801;Wijk 01 Bergen op Zoom-Noord
+74802;Wijk 02 Bergen op Zoom-Oost
+74803;Wijk 03 Bergen op Zoom-West
+74804;Wijk 04 Halsteren
+74805;Wijk 05 Lepelstraat
+75300;Wijk 00 Best
+75500;Wijk 00 Boekel
+75501;Wijk 01 Venhorst
+75600;Wijk 00 Boxmeer
+75601;Wijk 01 Sambeek
+75602;Wijk 02 Beugen
+75603;Wijk 03 Oeffelt
+75604;Wijk 04 Rijkevoort
+75605;Wijk 05 Vortum-Mullem
+75606;Wijk 06 Vierlingsbeek
+75607;Wijk 07 Overloon
+75608;Wijk 08 Maashees
+75609;Wijk 09 Holthees
+75700;Wijk 00 Boxtel
+75701;Wijk 01 Lennisheuvel
+75702;Wijk 02 Liempde
+75800;Breda Centrum
+75801;Breda Noord
+75802;Breda Oost
+75803;Breda Zuid-Oost
+75804;Breda Zuid
+75805;Breda West
+75806;Breda Noord-West
+75807;Bavel
+75808;Ulvenhout
+75809;Prinsenbeek
+75810;Teteringen
+76200;Wijk 00 Deurne
+76201;Wijk 01 Vlierden
+76202;Wijk 02 Liessel
+76203;Wijk 03 Neerkant
+76204;Wijk 04 Helenaveen
+76500;Wijk 00
+76501;Wijk 01
+76601;Dongen
+76602;'s Gravenmoer
+77000;Eersel
+77001;Duizel
+77002;Steensel
+77003;Vessem
+77004;Wintelre
+77005;Knegsel
+77211;Wijk 11 Stadsdeel Centrum
+77212;Wijk 12 Stadsdeel Stratum
+77213;Wijk 13 Stadsdeel Tongelre
+77214;Wijk 14 Stadsdeel Woensel-Zuid
+77215;Wijk 15 Stadsdeel Woensel-Noord
+77216;Wijk 16 Stadsdeel Strijp
+77217;Wijk 17 Stadsdeel Gestel
+77700;Wijk 00 Etten-Leur Midden woongebied
+77701;Wijk 01 Etten-Leur Midden, Bedrijventerrein Vosdo
+77702;Wijk 02 Etten-Leur landelijk gebied
+77710;Wijk 10 Etten-Leur Noord woongebied
+77711;Wijk 11 Etten-Leur Noord bedrijventerrein
+77712;Wijk 12 Etten-Leur Noord verspreide huizen
+77720;Wijk 20 Etten-Leur Zuid woongebied
+77721;Wijk 21 Etten-Leur Zuid bedrijventerrein
+77722;Wijk 22 Etten-Leur Zuid bedrijventerrein Trivium
+77723;Wijk 23 Etten-Leur Zuid verspreide huizen
+77900;Wijk 00 Raamsdonksveer
+77901;Wijk 01 Raamsdonk
+77902;Wijk 02 Geertruidenberg
+78400;Wijk 00 Rijen
+78401;Wijk 01 Gilze
+78402;Wijk 02 Molenschot
+78403;Wijk 03 Hulten
+78501;Wijk 01 Goirle-Centrum
+78502;Wijk 02 Grobbendonck
+78503;Wijk 03 De Groote Akkers
+78504;Wijk 04 De Hoge Wal
+78505;Wijk 05 Abcoven
+78506;Wijk 06 Wildackers
+78507;Wijk 07 't Ven
+78508;Wijk 08 De Boschkens
+78509;Wijk 09 De Hellen
+78510;Wijk 10 De Nieuwe Erven
+78511;Wijk 11 Hoogeind
+78512;Wijk 12 Sportpark Van den Wildenberg
+78513;Wijk 13 Bedrijventerrein Tijvoort
+78514;Wijk 14 Verspreide huizen Goirle
+78520;Wijk 20 Riel
+78521;Wijk 21 Bedrijventerrein Riel
+78522;Wijk 22 Sportpark De Krim
+78523;Wijk 23 Verspriede huizen Riel
+78600;Wijk 00 Grave
+78601;Wijk 01 Escharen
+78602;Wijk 02 Velp
+78603;Wijk 03 Gassel
+78801;Wijk 01 Haaren
+78802;Wijk 02 Helvoirt
+78803;Wijk 03 Esch
+78804;Wijk 04 Biezenmortel
+79410;Wijk 10 Binnenstad
+79411;Wijk 11 Helmond-Oost
+79412;Wijk 12 Helmond-Noord
+79413;Wijk 13 't Hout
+79414;Wijk 14 Brouwhuis
+79415;Wijk 15 Helmond-West
+79416;Wijk 16 Warande
+79417;Wijk 17 Stiphout
+79418;Wijk 18 Rijpelberg
+79419;Wijk 19 Dierdonk
+79421;Wijk 21 Brandevoort
+79429;Wijk 29 Industriegebied Zuid
+79601;Binnenstad
+79602;Zuidoost
+79603;Graafsepoort
+79604;Muntel / Vliert
+79605;Rosmalen-Zuid
+79606;Rosmalen-Noord
+79607;De Groote Wielen
+79608;Empel
+79609;Noord
+79610;Maaspoort
+79611;West
+79612;Engelen
+79613;Nuland
+79614;Vinkel
+79701;Wijk 01 Drunen
+79702;Wijk 02 Elshout
+79703;Wijk 03 Haarsteeg
+79704;Wijk 04 Nieuwkuijk
+79705;Wijk 05 Vlijmen
+79706;Wijk 06 Doeveren
+79707;Wijk 07 Hedikthuizen
+79708;Wijk 08 Heesbeen
+79709;Wijk 09 Herpt
+79710;Wijk 10 Heusden
+79711;Wijk 11 Oudheusden
+79800;Wijk 00 Hilvarenbeek
+79801;Wijk 01 Esbeek
+79802;Wijk 02 Biest-Houtakker
+79803;Wijk 03 Diessen
+79804;Wijk 04 Haghorst
+80910;Wijk 10 Kaatsheuvel-West
+80920;Wijk 20 Kaatsheuvel-Oost
+80930;Wijk 30 Loon op Zand
+80940;Wijk 40 De Moer
+81509;Mill
+81510;Sint Hubert
+81512;Wilbertoord
+81515;Langenboom
+82000;Wijk 00 Nuenen
+82001;Wijk 01 Gerwen
+82002;Wijk 02 Nederwetten
+82300;Wijk 00 Oirschot
+82301;Wijk 01 Spoordonk
+82302;Wijk 02 Middelbeers en Westelbeers
+82303;Wijk 03 Oostelbeers
+82401;Verspr.h. westen en noorden Moerg.
+82402;Pannenschuur
+82403;Heukelom
+82404;Buitengebied (Zuid)
+82405;Omgeving Vinkenberg / Heuvelstraat
+82406;Omgeving George Perklaan
+82407;Centrum Moergestel
+82408;'t Westend / 't Seuverick
+82409;Bunders / Levenskerk
+82410;Buitengebied Kerkhoven
+82411;Waterhoef / Klompven
+82412;Omgeving Industrieterrein
+82413;Centrum Oisterwijk
+82414;Verspr.h. oosten en zuiden Moerg.
+82415;Omgeving Broekzijde
+82600;Wijk 00 Oosterhout-Centrum
+82601;Wijk 01 Slotjes
+82602;Wijk 02 West
+82603;Wijk 03 Strijen
+82604;Wijk 04 Leijsenakkers
+82605;Wijk 05 Oosterheide
+82606;Wijk 06 Dommelbergen
+82607;Wijk 07 Vrachelen
+82608;Wijk 08 Industrieterrein Zuid
+82609;Wijk 09 Industrieterrein Noord
+82610;Wijk 10 Buitengebied Oosterhout
+82611;Wijk 11 Den Hout
+82612;Wijk 12 Oosteind
+82613;Wijk 13 Dorst
+82800;Centrum
+82801;Schadewijk
+82802;Industrieterreinen-Zuid
+82803;Oss-Zuid
+82804;Krinkelhoek
+82805;Industrieterreinen-Noord
+82806;Ruwaard
+82807;Ussen
+82808;Buitengebied-Noord
+82809;Buitengebied-Zuid
+82810;Berghem
+82811;Haren
+82812;Macharen
+82813;Megen
+82814;Ravenstein
+82815;Herpen
+82816;Overlangel
+82817;Deursen en Dennenburg
+82818;Lith
+82819;Lithoijen
+82820;Oijen
+82821;Maren - Kessel
+82822;Geffen
+84000;Wijk 00 Rucphen
+84001;Wijk 01 Sint Willebrord
+84002;Wijk 02 Sprundel
+84003;Wijk 03 Schijf
+84004;Wijk 04 Zegge
+84500;Wijk 00 Sint-Michielsgestel
+84501;Wijk 01 Gemonde
+84502;Wijk 02 Den Dungen
+84503;Wijk 03 Berlicum
+84504;Wijk 04 Middelrode
+84700;Wijk 00 Someren
+84701;Wijk 01 Lierop
+84702;Wijk 02 Someren-Eind
+84703;Wijk 03 Somerense Heide
+84709;Wijk 09
+84800;Wijk 00 Son
+84801;Wijk 01 Breugel
+85100;Wijk 00 Steenbergen
+85101;Wijk 01 Kruisland
+85102;Wijk 02 De Heen
+85103;Wijk 03 Dinteloord
+85104;Wijk 04 Nieuw-Vossemeer
+85200;Wijk 00 Monnickendam
+85201;Wijk 01 Katwoude
+85202;Wijk 02 Marken
+85203;Wijk 03 Broek in Waterland
+85204;Wijk 04 Ilpendam
+85205;Wijk 05 Watergang
+85510;Binnenstad
+85511;Hoogvenne
+85512;Armhoef
+85513;Jeruzalem
+85514;Fatima
+85515;Broekhoven
+85516;Oerle
+85517;Korvel
+85518;Trouwlaan - Uitvindersbuurt
+85519;Sint Anna
+85520;Noordhoek
+85521;Spoorzone Zuid
+85522;Bouwmeester
+85523;De Hasselt
+85524;Het Goirke
+85525;Groeseind-Hoefstraat
+85526;Loven-Besterd
+85527;Theresia
+85528;Spoorzone Noord
+85529;Kanaalzone
+85530;Moerenburg
+85531;De Leij
+85532;Groenewoud
+85533;Stappegoor
+85534;Bedrijventerrein Het Laar
+85535;De Blaak
+85536;Zorgvlied
+85537;De Reit
+85538;Het Zand
+85539;Wandelbos Noord
+85540;Wandelbos Zuid
+85541;De Oude Warande
+85542;Stokhasselt
+85543;Heikant
+85544;Quirijnstok
+85545;Ind.terrein Loven
+85546;Bosscheweg
+85547;Gesworen Hoek
+85548;Huibeven
+85549;Campenhoef
+85550;Heyhoef
+85551;Heerevelden
+85552;Dongewijk
+85553;Tuindorp De Kievit
+85554;Leeuwerik
+85555;Dalem Noord
+85556;Dalem Zuid
+85557;Koolhoven
+85558;Witbrant
+85559;Bedrijventerrein Kraaiven
+85560;Bedrijventerrein Vossenberg
+85561;De Katsbogten
+85562;Buitengebied Tilburg Zuid-Oost
+85563;Buitengebied Tilburg Zuid-West
+85564;Buitengebied Tilburg Noord-Oost
+85565;Buitengebied Tilburg Noord-West
+85566;Berkel-Enschot
+85567;Udenhout
+85601;Wijk 01 Uden
+85602;Wijk 02 Volkel
+85603;Wijk 03 Odiliapeel
+85800;Wijk 00 Valkenswaard
+85801;Wijk 01 Kloosterakkers en Dommelen
+85802;Wijk 02 Borkel en Schaft
+86100;Wijk 00 Veldhoven
+86101;Wijk 01 Noordelijk Woongebied
+86102;Wijk 02 Oerle
+86500;Wijk 00 Vught
+86501;Wijk 01 Vught-Zuid
+86502;Wijk 02 Cromvoirt
+86600;Wijk 00 Waalre
+86700;Wijk 00 Waalwijk
+86701;Wijk 01 Sprang-Capelle
+86702;Wijk 02 Waspik
+87001;Wijk 01 Werkendam
+87002;Wijk 02 Sleeuwijk
+87003;Wijk 03 Nieuwendijk
+87004;Wijk 04 Hank
+87005;Wijk 05 Dussen
+87300;Wijk 00 Hoogerheide en Woensdrecht
+87301;Wijk 01 Huijbergen
+87302;Wijk 02 Ossendrecht
+87303;Wijk 03 Putte
+87400;Wijk 00 Woudrichem
+87401;Wijk 01 Almkerk
+87402;Wijk 02 Rijswijk
+87403;Wijk 03 Giessen
+87404;Wijk 04 Andel
+87405;Wijk 05 Uitwijk en Waardhuizen
+87900;Wijk 00 Zundert
+87901;Wijk 01 Klein - Zundert
+87902;Wijk 02 Wernhout
+87903;Wijk 03 Achtmaal
+87904;Wijk 04 Rijsbergen
+88000;Wijk 00 Wormer
+88001;Wijk 01 Wijdewormer
+88002;Wijk 02 Jisp
+88100;Wijk 00 Onderbanken
+88200;Wijk 00 Schaesberg
+88201;Wijk 01 Nieuwenhagen
+88202;Wijk 02 Ubach over Worms
+88800;Wijk 00 Beek - Spaubeek
+88801;Wijk 01 Beek-Zuid
+88900;Wijk 00 Reuver
+88901;Wijk 01 Beesel
+89301;Aijen
+89302;Oud-Bergen
+89303;Nieuw-Bergen
+89304;Afferden
+89305;Siebengewald
+89306;Well
+89307;Wellerlooi
+89901;Wijk 01 Brunssum-West
+89902;Wijk 02 Brunssum-Noord
+89903;Wijk 03 Brunssum-Oost
+89904;Wijk 04 Brunssum-Zuid
+89905;Wijk 05 Brunssum-Centrum
+90700;Wijk 00 Milsbeek
+90701;Wijk 01 Ottersum
+90702;Wijk 02 Ven-Zelderheide
+90703;Wijk 03 Gennep
+90704;Wijk 04 Heijen
+91710;Wijk 10 Maria Gewanden en Terschuren
+91711;Wijk 11 Mariarade
+91712;Wijk 12 Hoensbroek-De Dem
+91713;Wijk 13 Nieuw Lotbroek
+91714;Wijk 14 De Koumen
+91720;Wijk 20 Vrieheide-De Stack
+91721;Wijk 21 Heerlerheide-Passart
+91722;Wijk 22 Heksenberg
+91723;Wijk 23 De Hei
+91724;Wijk 24 Rennemig-Beersdal
+91730;Wijk 30 Zeswegen-Nieuw Husken
+91731;Wijk 31 Schandelen-Grasbroek
+91732;Wijk 32 Meezenbroek-Schaesbergerveld
+91733;Wijk 33 Heerlen-Centrum
+91734;Wijk 34 Eikenderveld
+91735;Wijk 35 Woonboulevard-Ten Esschen
+91736;Wijk 36 Welten-Benzenrade
+91737;Wijk 37 Bekkerveld
+91738;Wijk 38 Caumerveld-Douve Weien
+91739;Wijk 39 Molenberg
+91740;Wijk 40 Heerlerbaan-Centrum
+91741;Wijk 41 Heerlerbaan-Schil
+91742;Wijk 42 De Beitel
+92800;Wijk 00 Kerkrade-West
+92801;Wijk 01 Kerkrade-Oost
+92802;Wijk 02 Kerkrade-Noord
+93500;Wijk 00 Centrum
+93501;Wijk 01 Buitenwijk Zuidwest
+93502;Wijk 02 Buitenwijk West
+93503;Wijk 03 Buitenwijk Noordwest
+93504;Wijk 04 Buitenwijk Oost
+93505;Wijk 05 Buitenwijk Noordoost
+93506;Wijk 06 Buitenwijk Zuidoost
+93800;Wijk 00 Meerssen
+93801;Wijk 01 Ulestraten
+93802;Wijk 02 Bunde - Geulle
+94400;Wijk 00 Mook
+94401;Wijk 01 Middelaar
+94601;Wijk 01 Nederweert
+94602;Wijk 02 Budschop
+94603;Wijk 03 Ospel
+94604;Wijk 04 Nederweert-Eind
+94605;Wijk 05 Leveroy
+95100;Wijk 00 Nuth
+95101;Wijk 01 Wijnandsrade
+95102;Wijk 02 Hulsberg
+95103;Wijk 03 Schimmert
+95700;Wijk 00 Centrum
+95701;Wijk 01 Roermond-Oost
+95702;Wijk 02 Roermond-Zuid
+95703;Wijk 03 Maasniel
+95704;Wijk 04 Donderberg
+95705;Wijk 05 Hoogvonderen
+95706;Wijk 06 Asenray
+95707;Wijk 07 Herten
+95708;Wijk 08 Swalmen
+95709;Wijk 09 Maasplassen
+96200;Wijk 00
+96201;Wijk 01 Amstenrade - Oirsbeek
+96500;Wijk 00 Simpelveld
+96501;Wijk 01 Bocholtz
+97100;Wijk 00 Stein
+97101;Wijk 01 Elsloo
+97102;Wijk 02 Urmond
+98100;Wijk 00 Vijlen-Lemiers
+98101;Wijk 01 Vaals
+98311;Wijk 11 Venlo-Centrum
+98312;Wijk 12 Venlo-Zuid
+98313;Wijk 13 Venlo-Oost-Noord
+98314;Wijk 14 Venlo-Noord
+98315;Wijk 15 Venlo-Oost-Zuid
+98316;Wijk 16 Het Ven
+98321;Wijk 21 Blerick-Midden
+98322;Wijk 22 Blerick-Noord
+98323;Wijk 23 Blerick-Zuid
+98324;Wijk 24 Vossener
+98325;Wijk 25 Klingerberg
+98326;Wijk 26 Hout-Blerick
+98327;Wijk 27 Boekend
+98328;Wijk 28 Trade-Port
+98331;Wijk 31 Tegelen-Centrum
+98332;Wijk 32 Op de Hei
+98335;Wijk 35 Steyl
+98341;Wijk 41 Velden
+98343;Wijk 43 Lomm
+98344;Wijk 44 Arcen
+98351;Wijk 51 Belfeld
+98401;Heide
+98402;Ysselsteyn
+98403;Merselo
+98404;Vredepeel
+98405;Smakt
+98406;Oostrum
+98407;Oirlo
+98408;Castenray
+98409;Veulen
+98410;Leunen
+98411;Centrum
+98412;Oost
+98413;West
+98414;Vlakwater
+98415;Veltum
+98416;Brukske
+98417;Landweert
+98418;Smakterheide
+98419;Brabander
+98420;St. Antoniusveld
+98421;Wanssum
+98422;Geijsteren
+98423;Blitterswijck
+98601;Wijk 01 Voerendaal
+98602;Wijk02 Kunrade
+98603;Wijk 03 Ubachsberg
+98604;Wijk 04 Klimmen
+98605;Wijk 05 Ransdaal
+98609;Wijk 09 Verspreide huizen Voerendaal
+98801;Wijk 01 Boshoven
+98802;Wijk 02 Laar en Hushoven
+98803;Wijk 03 Molenakker en Kampershoek
+98811;Wijk 11 Weert-Centrum
+98812;Wijk 12 Biest
+98813;Wijk 13 Groenewoud
+98814;Wijk 14 Fatima
+98821;Wijk 21 Keent
+98822;Wijk 22 Moesel
+98823;Wijk 23 Graswinkel
+98824;Wijk 24 Leuken
+98825;Wijk 25 Kazernelaan
+98831;Wijk 31 Altweerterheide
+98832;Wijk 32 Tungelroy
+98833;Wijk 33 Swartbroek
+98834;Wijk 34 Stramproy
+99400;Wijk 00: Valkenburg
+99401;Wijk 01: Houthem - Sint Gerlach
+99402;Wijk 02: Schin op Geul - Oud-Valkenburg
+99403;Wijk 03: Sibbe - IJzeren
+99404;Wijk 04: Berg en Terblijt - Vilt
+99405;Wijk 05: Walem
+99511;Zuiderzeewijk
+99512;Atolwijk
+99513;BD Bedrijven Lelystad Noord
+99516;Centrumzone Wijk1
+99517;Overijsselse Hout, Gelderse Hout
+99518;Industrieterrein Oostervaart
+99521;Schepenwijk Noord
+99522;Schepenwijk Oost
+99523;Schepenwijk West
+99524;Schepenwijk Zuid
+99525;Houtribhoogte
+99527;Zuigerplaspark
+99531;Landstrekenwijk
+99532;Villapark Hollandse Hout
+99535;Lelystad-Haven
+99537;Uilenweg
+99538;Industrieterrein Noordersluis
+99541;Boswijk
+99542;Waterwijk
+99543;Landerijen
+99547;Flevobos
+99551;Warande Noord
+99552;Warande West
+99553;Warande Oost
+99554;Warande Zuid
+99556;Warande Midden
+99557;Hollandse Hout
+99558;Industrieterrein Flevopoort
+99561;Kofschip
+99562;Stadscentrum Noord
+99563;Stadscentrum Zuid
+99566;Stadscentrum, Het Ravelijn
+99571;Visvijverbos
+99572;Runderweg
+99573;Zeeasterweg
+99574;Vlotgrasweg
+99575;Eendenweg
+99576;Vogelweg
+99577;Pijlstaartweg
+99578;Bedrijvenpark Larserpoort
+99579;Oostvaardersplassen
+99590;Markermeer
+150700;Wijk 00 Griendtsveen
+150701;Wijk 01 America
+150702;Wijk 02 Meterik
+150703;Wijk 03 Hegelsom
+150704;Wijk 04 Horst
+150705;Wijk 05 Melderslo
+150706;Wijk 06 Broekhuizen
+150707;Wijk 07 Lottum
+150708;Wijk 08 Grubbenvorst
+150709;Wijk 09 Broekhuizen
+150710;Wijk 10 Sevenum
+150711;Wijk 11 Kronenberg
+150712;Wijk 12 Evertsoorsd
+150713;Wijk 13 Meerlo
+150714;Wijk 14 Tienray
+150715;Wijk 15 Swolgen
+150900;Wijk 00 Ulft-Etten
+150901;Wijk 01 Overig Gendringen
+150902;Wijk 02 Silvolde-Terborg
+150903;Wijk 03 Varsseveld
+152500;Wijk 00 Sassenheim
+152501;Wijk 01 Voorhout
+152502;Wijk 02 Warmond
+158100;Wijk 00 Doorn
+158101;Wijk 01 Driebergen-Rijssenburg
+158102;Wijk 02 Leersum
+158103;Wijk 03 Amerongen
+158104;Wijk 04 Maarn
+158601;Wijk 01 Lichtenvoorde
+158602;Wijk 02 Harreveld
+158603;Wijk 03 Zieuwewnt
+158604;Wijk 04 Lievelde
+158605;Wijk 05 Vragender
+158606;Wijk 06 Groenlo
+158607;Wijk 07 Marienvelde
+159800;Wijk 00 Westerkoggenland
+159801;Wijk 01 Spierdijk
+159802;Wijk 02 Zuidermeer
+159803;Wijk 03 Ursem
+159804;Wijk 04 Avenhorn
+159805;Wijk 05 Oudendijk
+159806;Wijk 06 Obdam
+159807;Wijk 07 Hensbroek
+162111;Wijk 11 Bergschenhoek
+162112;Wijk 12 De Ackers
+162113;Wijk 13 Boterdorp
+162114;Wijk 14
+162115;Wijk 15 Oosteindsche Polder
+162121;Wijk 21 Berkel
+162122;Wijk 22 Noordpolder
+162123;Wijk 23 Meerpolder
+162124;Wijk 24 Noordeinde
+162125;Wijk 25 Zuidpolder
+162126;Wijk 26 De Wadden
+162127;Wijk 27 Westpolder
+162128;Wijk 28 Rodenrijs
+162131;Wijk 31 Bleiswijk
+162132;Wijk 32 Hoekeindse Zoom
+162133;Wijk 33 Bleiswijk Buiten
+164000;Heythuysen
+164001;Heibloem
+164002;Roggel
+164003;Neer
+164004;Nunhem
+164005;Haelen
+164006;Buggenum
+164007;Horn
+164008;Baexem
+164009;Kelpen-Oler
+164010;Grathem
+164011;Ell
+164012;Haler
+164013;Hunsel
+164014;Neeritter
+164015;Ittervoort
+164100;Wijk 00 Maasbracht
+164101;Wijk 01 Linne
+164102;Wijk 02 Stevensweert
+164103;Wijk 03 Ohé en Laak
+164104;Wijk 04 Thorn
+164105;Wijk 05 Heel
+164106;Wijk 06 Beegden
+164107;Wijk 07 Wessem
+165100;Wijk 00
+165101;Wijk 01
+165102;Wijk 02
+165103;Wijk 03
+165104;Wijk 04
+165200;Wijk 00 Gemert
+165201;Wijk 01 Handel
+165202;Wijk 02 De Mortel
+165203;Wijk 03 Elsendorp
+165204;Wijk 04 Bakel
+165205;Wijk 05 Milheeze
+165206;Wijk 06 De Rips
+165501;Wijk 01 Oud Gastel
+165502;Wijk 02 Stampersgat
+165503;Wijk 03 Oudenbosch
+165504;Wijk 04 Hoeven
+165505;Wijk 05 Bosschenhoofd
+165800;Wijk 00 Heeze
+165801;Wijk 01 Leende
+165802;Wijk 02 Leenderstrijp
+165803;Wijk 03 Sterksel
+165900;Wijk 00 Beek en Donk
+165901;Wijk 01 Aarle-Rixtel
+165902;Wijk 02 Lieshout
+165903;Wijk 03 Mariahout
+166300;Wijk 00
+166301;Wijk 01
+166302;Wijk 02
+166303;Wijk 03
+166700;Wijk 00 Reusel
+166701;Wijk 01 Hooge Mierde
+166702;Wijk 02 Lage Mierde
+166703;Wijk 03 Hulsel
+166901;Montfort
+166902;Sint Odiliënberg
+166903;Melick
+166904;Posterholt
+166905;Herkenbosch
+166906;Vlodrop
+167400;Wijk 00 Centrum
+167401;Wijk 01 Oost
+167402;Wijk 02 Noord
+167403;Wijk 03 West
+167404;Wijk 04 Groot Kroeven
+167405;Wijk 05 Langdonk
+167406;Wijk 06 Kortendijk
+167407;Wijk 07 Tolberg
+167408;Wijk 08 Industriegebieden
+167410;Wijk 10 Nispen
+167411;Wijk 11 Wouw
+167412;Wijk 12 Heerle
+167413;Wijk 13 Moerstraten
+167414;Wijk 14 Wouwse Plantage
+167600;Wijk 00 Zierikzee
+167601;Wijk 01 Brouwershaven
+167602;Wijk 02 Zonnemaire
+167603;Wijk 03 Dreischor
+167604;Wijk 04 Noordgouwe
+167605;Wijk 05 Bruinisse
+167606;Wijk 06 Nieuwerkerk
+167607;Wijk 07 Oosterland
+167608;Wijk 08 Ouwerkerk
+167609;Wijk 09 Scharendijke
+167610;Wijk 10 Kerkwerve
+167611;Wijk 11 Ellemeet
+167612;Wijk 12 Haamstede
+167613;Wijk 13 Renesse
+167614;Wijk 14 Noordwelle
+167615;Wijk 15 Serooskerke
+168000;Wijk 00 Annen
+168001;Wijk 01 Eext
+168002;Wijk 02 Anloo
+168003;Wijk 03 Gasteren
+168004;Wijk 04 Anderen
+168005;Wijk 05 Schipborg
+168006;Wijk 06 Eexterveen
+168007;Wijk 07 Spijkerboor
+168008;Wijk 08 Nieuw-Annerveen
+168009;Wijk 09 Oud-Annerveen
+168011;Wijk 11 Annerveenschekanaal
+168012;Wijk 12 Eexterveenschekanaal
+168013;Wijk 13 Eexterzandvoort
+168014;Wijk 14 Gasselte
+168015;Wijk 15 Gasselternijveen
+168016;Wijk 16 Gasselternijveenschemond
+168017;Wijk 17 Gieten
+168018;Wijk 18 Gieterveen
+168019;Wijk 19 Rolde
+168020;Wijk 20 Grolloo
+168021;Wijk 21 Ekehaar
+168100;Wijk 00 Borger
+168101;Wijk 01 Buinen
+168102;Wijk 02 Bronneger
+168103;Wijk 03 Drouwen
+168104;Wijk 04 Bronnegerveen
+168105;Wijk 05 Drouwenerveen
+168106;Wijk 06 Drouwenermond
+168107;Wijk 07 Nieuw-Buinen
+168108;Wijk 08 Buinerveen
+168109;Wijk 09 Ees
+168110;Wijk 10 Odoorn
+168111;Wijk 11 Exloo
+168112;Wijk 12 Valthe
+168113;Wijk 13 Klijndijk
+168114;Wijk 14 Odoornerveen
+168115;Wijk 15 Tweede Exloërmond
+168116;Wijk 16 Valthermond
+168401;Linden
+168402;Katwijk
+168403;Vianen
+168404;Beers
+168406;Cuijk
+168411;Haps
+168414;Sint Agatha
+168500;Wijk 00 Schaijk
+168501;Wijk 01 Reek
+168502;Wijk 02 Zeeland
+168509;Wijk 09 Verspreide huizen Zeeland
+169000;Wijk 00 Zuidwolde
+169001;Wijk 01 Alteveer
+169002;Wijk 02 Kerkenveld
+169003;Wijk 03 Drogteropslagen
+169004;Wijk 04 Linde
+169005;Wijk 05 Fort
+169006;Wijk 06 Veeningen
+169007;Wijk 07 Echten
+169008;Wijk 08 Ruinen
+169009;Wijk 09 Eursinge
+169010;Wijk 10 Ansen
+169011;Wijk 11 Ruinerwold
+169012;Wijk 12 Koekange
+169013;Wijk 13 De Wijk
+169500;Wijk 00 Kortgene
+169501;Wijk 01 Colijnsplaat
+169502;Wijk 02 Kats
+169503;Wijk 03 Kamperland
+169504;Wijk 04 Wissenkerke
+169505;Wijk 05 Geersdijk
+169600;Wijk 00 's-Graveland
+169601;Wijk 01 Kortenhoef
+169602;Wijk 02 Ankeveen
+169603;Wijk 03 Loosdrecht
+169604;Wijk 04 Nieuw-Loosdrecht
+169605;Wijk 05 Breukeleveen
+169606;Wijk 06 Nederhorst den Berg
+169900;Wijk 00 Roden
+169901;Wijk 01 Roden
+169903;Wijk 03 Norg
+169904;Wijk 04 Norg
+169906;Wijk 06 Peize
+170000;Wijk 00 Vriezenveen (kern)
+170001;Wijk 01 Vriezenveen (buitengebied)
+170002;Wijk 02 Westerhaar-Vriezenveensewijk
+170003;Wijk 03 Kloosterhaar
+170004;Wijk 04 Bruinehaar
+170100;Wijk 00 Diever
+170101;Wijk 01 Wapse
+170102;Wijk 02 Zorgvlied
+170103;Wijk 03 Dwingeloo
+170104;Wijk 04 Lhee
+170105;Wijk 05 Eemster
+170106;Wijk 06 Geeuwenbrug
+170107;Wijk 07 Dieverbrug
+170108;Wijk 08 Havelte
+170109;Wijk 09 Uffelte
+170110;Wijk 10 Wapserveen
+170111;Wijk 11 Vledder
+170112;Wijk 12 Frederiksoord
+170113;Wijk 13 Nijensleek
+170114;Wijk 14 Vledderveen
+170115;Wijk 15 Wilhelminaoord
+170116;Wijk 16 Doldersum
+170117;Wijk 17 Boschoord
+170200;Wijk 00 Sint Anthonis
+170201;Wijk 01 Oploo
+170202;Wijk 02 Westerbeek
+170203;Wijk 03 Stevensbeek
+170204;Wijk 04 Wanroij
+170205;Wijk 05 Landhorst
+170500;Wijk 00 Bemmel
+170501;Wijk 01 Gendt
+170502;Wijk 02 Huissen
+170600;Wijk 00 Budel
+170601;Wijk 01 Schoot
+170602;Wijk 02 Dorplein
+170603;Wijk 03 Maarheeze
+170604;Wijk 04 Soerendonk
+170605;Wijk 05 Gastel
+170800;Steenwijk
+170802;Oldemarkt
+170803;Kalenberg
+170804;Kuinre
+170805;Blankenham
+170806;Scheerwolde
+170807;Vollenhove
+170808;Sint Jansklooster
+170810;Belt-Schutsloot
+170811;Wanneperveen
+170816;Blokzijl
+170817;Giethoorn
+170818;Zuidveen
+170819;Onna
+170820;Kallenkote
+170821;Eesveen
+170822;De Bult
+170823;Baars
+170824;Witte Paarden
+170825;De Pol
+170826;Willemsoord
+170827;Marijenkampen
+170828;Tuk
+170829;Steenwijkerwold
+170830;Basse
+170831;Paasloo
+170832;IJsselham
+170833;Ossenzijl
+170834;Wetering
+170835;Nederland
+170836;Baarlo
+170900;Wijk 00 Zevenbergen
+170901;Wijk 01 Zevenbergschen Hoek
+170902;Wijk 02 Langeweg
+170903;Wijk 03 Klundert
+170904;Wijk 04 Moerdijk
+170905;Wijk 05 Noordhoek
+170906;Wijk 06 Standdaarbuiten
+170907;Wijk 07 Fijnaart
+170908;Wijk 08 Heijningen
+170909;Wijk 09 Willemstad
+170910;Wijk 10 Helwijk
+171101;Wijk 01 Susteren
+171102;Wijk 02 Dieteren
+171103;Wijk 03 Heide
+171104;Wijk 04 Roosteren
+171105;Wijk 05 Echt
+171106;Wijk 06 Maria Hoop
+171107;Wijk 07 Peij
+171108;Wijk 08 Slek
+171109;Wijk 09 Nieuwstadt
+171110;Wijk 10 Sint Joost
+171111;Wijk 11 Koningsbosch
+171400;Wijk 00 Sluis
+171401;Wijk 01 Retranchement
+171402;Wijk 02 Aardenburg
+171403;Wijk 03 Eede
+171404;Wijk 04 Sint Kruis
+171405;Wijk 05 Oostburg
+171406;Wijk 06 Zuidzande
+171407;Wijk 07 Cadzand
+171408;Wijk 08 Nieuwvliet
+171409;Wijk 09 Groede
+171410;Wijk 10 Breskens
+171411;Wijk 11 Hoofdplaat
+171412;Wijk 12 IJzendijke
+171413;Wijk 13 Schoondijke
+171414;Wijk 14 Waterlandkerkje
+171900;Wijk 00 Made
+171901;Wijk 01 Drimmelen
+171902;Wijk 02 Terheijden
+171903;Wijk 03 Wagenberg
+171904;Wijk 04 Lage Zwaluwe
+171905;Wijk 05 Hooge Zwaluwe
+172101;Kern Heesch
+172102;Kern Heeswijk-Dinther
+172103;Kern Nistelrode
+172104;Buitengebied Heesch
+172105;Buitengebied Heeswijk-Dinther
+172106;Buitengebied Nistelrode
+172200;Wijk 00 Bouwstreek
+172201;Wijk 01 Zuidwest
+172202;Wijk 02
+172300;Wijk 00 Alphen
+172301;Wijk 01 Chaam
+172302;Wijk 02 Galder
+172308;Wijk 08 Verspreide huizen
+172309;Wijk 09 Verspreide huizen
+172400;Wijk 00 Bergeijk 't Hof
+172401;Wijk 01 Weebosch
+172402;Wijk 02 Luyksgestel
+172403;Wijk 03 Riethoven
+172404;Wijk 04 Westerhoven
+172405;Wijk 05 Bergeijk 't Loo
+172406;Wijk 06 Buitengebied
+172800;Wijk 00 Bladel
+172801;Wijk 01 Netersel
+172802;Wijk 02 Hapert
+172803;Wijk 03 Hoogeloon
+172804;Wijk 04 Casteren
+172900;Wijk 00 Gulpen
+172901;Wijk 01 Wijlre
+172902;Wijk 02 Eys
+172903;Wijk 03 Wittem
+172904;Wijk 04 Mechelen
+172905;Wijk 05 Epen
+172906;Wijk 06 Slenaken
+173000;Wijk 00 Zuidlaren
+173001;Wijk 01 De Groeve
+173002;Wijk 02 Zuidlaarderveen
+173003;Wijk 03 Midlaren
+173004;Wijk 04 Westlaren
+173005;Wijk 05 Schuilingsoord
+173006;Wijk 06 Paterswolde
+173007;Wijk 07 Eelde
+173008;Wijk 08 Eelderwolde
+173009;Wijk 09 Vries
+173010;Wijk 10 Donderen
+173011;Wijk 11 Bunne
+173012;Wijk 12 Yde
+173013;Wijk 13 Tynaarlo
+173014;Wijk 14 Zeegse
+173015;Wijk 15 Zeijen
+173100;Wijk 00 Beilen
+173101;Wijk 01 Hijken
+173102;Wijk 02 Hooghalen
+173103;Wijk 03 Wijster
+173104;Wijk 04 Spier
+173105;Wijk 05 Drijber
+173106;Wijk 06 Smilde
+173107;Wijk 07 Bovensmilde
+173108;Wijk 08 Hoogersmilde
+173109;Wijk 09 Westerbork
+173110;Wijk 10 Elp
+173111;Wijk 11 Witteveen
+173112;Wijk 12 Nieuw-Balinge
+173113;Wijk 13 Nieuweroord
+173114;Wijk 14 Zwiggelte
+173115;Wijk 15 Orvelte
+173116;Wijk 16 De Broekstreek
+173400;Wijk 00 Elst
+173401;Wijk 01 Driel
+173402;Wijk 02 Zetten
+173403;Wijk 03 Oosterhout
+173404;Wijk 04 Hemmen
+173500;Wijk 00 Goor
+173501;Wijk 01 De Whee II
+173502;Wijk 02 Markelo
+173503;Wijk 03 Verspreide huizen Kerspel en omgeving
+173504;Wijk 04 Elsen
+173505;Wijk 05 Diepenheim
+173506;Wijk 06 Delden
+173507;Wijk 07 Overig Delden
+173508;Wijk 08 Hengevelde
+173509;Wijk 09 Bentelo
+174000;Wijk 00 Kesteren
+174001;Wijk 01 Echteld
+174002;Wijk 02 Dodewaard
+174200;Wijk 00 Stad Rijssen
+174201;Wijk 01 Stadsrand
+174202;Wijk 02 Buitengebied Rijssen
+174203;Wijk 03 Holten
+174204;Wijk 04 Bedrijventerrein Holten
+174205;Wijk 05 Buitengebied Holten
+174207;Wijk 07 Bedrijventerrein Rijssen
+174208;Wijk 08 Recreatiegebied De Borkeld
+177100;Wijk 00 Geldrop
+177101;Wijk 01 Mierlo
+177301;Wijk 01 Olst
+177302;Wijk 02 Wijhe
+177303;Wijk 03 Wesepe
+177304;Wijk 04 Boskamp
+177305;Wijk 05 Boerhaar
+177306;Wijk 06 Welsum
+177307;Wijk 07 Den Nul
+177308;Wijk 08 Eikelhof
+177309;Wijk 09 Elshof
+177310;Wijk 10 Marle
+177311;Wijk 11 Middel
+177312;Wijk 12 Herxen
+177410;Wijk 10 Denekamp
+177411;Wijk 11 Lattrop-Breklenkamp
+177412;Wijk 12 Tilligte
+177413;Wijk 13 Agelo
+177414;Wijk 14 Noord Deurningen
+177415;Wijk 15 Ootmarsum
+177416;Wijk 16 Weerselo
+177417;Wijk 17 Rossum
+177418;Wijk 18 Saasveld
+177419;Wijk 19 Deurningen
+177420;Wijk 20 Nutter
+177421;Wijk 21 Oud Ootmarsum
+178301;Wijk 01 Naaldwijk
+178302;Wijk 02 Honselersdijk
+178303;Wijk 03 Maasdijk
+178304;Wijk 04 's-Gravenzande
+178305;Wijk 05 Monster
+178306;Wijk 06 Wateringen
+178307;Wijk 07 De Lier
+178308;Wijk 08 Kwintsheul
+178309;Wijk 09 Poeldijk
+178310;Wijk 10 Ter Heijde
+184200;Wijk 00 Schipluiden
+184201;Wijk 01 Maasland
+185900;Wijk 00 Borculo
+185901;Wijk 01 Eibergen
+185902;Wijk 02 Beltrum
+185903;Wijk 03 Neede
+185904;Wijk 04 Ruurlo
+187600;Wijk 00 Hengelo
+187601;Wijk 01 Zelhem
+187602;Wijk 02 Vorden
+187603;Wijk 03 Steenderen
+187604;Wijk 04 Hummelo en Keppel
+188300;Wijk 00 Limbrichterveld
+188301;Wijk 01 Sittard
+188302;Wijk 02 Overhoven
+188303;Wijk 03 Munstergeleen
+188304;Wijk 04 Guttecoven
+188305;Wijk 05 Geleen
+188306;Wijk 06 Holtum-Born
+188307;Wijk 07 Obbicht en Papenhoven
+188400;Wijk 00 Roelofarendsveen
+188401;Wijk 01 Overig Alkemade
+188402;Wijk 02 Woubrugge
+188403;Wijk 03 Rijnsaterwoude
+188404;Wijk 04 Leimuiden
+189100;Wijk 00 Centrum
+189101;Wijk 01 Oost
+189102;Wijk 02 Zuid
+189103;Wijk 03 West
+189201;Moerkapelle wijk 01
+189202;Zevenhuizen wijk 02
+189203;Moordrecht wijk 03
+189204;Nieuwerkerk aan den IJssel wijk 04
+189400;Wijk 00 Grashoek-Koningslust
+189401;Wijk 01 Panningen
+189402;Wijk 02 Kessel
+189403;Wijk 03 Maasbree
+189404;Wijk 04 Baarlo
+189405;Wijk 05 Meijel
+189500;Wijk 00 Winschoten
+189501;Wijk 01 Finsterwolde
+189502;Wijk 02 Drieborg
+189503;Wijk 03 Beerta
+189504;Wijk 04 Nieuw-Beerta
+189505;Wijk 05 Nieuweschans
+189506;Wijk 06 Scheemda-Heiligerlee
+189507;Wijk 01 Westerlee
+189508;Wijk 02 Noord
+189509;Wijk 03 Midwolda
+189510;Wijk 04 Nieuwolda
+189600;Wijk 00 Genemuiden
+189601;Wijk 01 Kamperzeedijk
+189602;Wijk 02 Hasselt
+189603;Wijk 03 Landelijk gebied Hasselt
+189604;Wijk 04 Zwartsluis
+189605;Wijk 05 Mastenbroek
+190000;Wijk 00 Bolsward
+190001;Wijk 01 Sneek
+190002;Wijk 02 Nijefurd
+190003;Wijk 03 Koudum
+190004;Wijk 04 Hemelum
+190005;Wijk 05 IJlst
+190006;Wijk 06 Zuid IJlst
+190007;Wijk 07 Oost IJlst
+190008;Wijk 08 West IJlst
+190009;Wijk 09 Oosthem
+190010;Wijk 10 Noordwest IJlst
+190011;Wijk 11 Zuidoost IJLst
+190012;Wijk 12 Woudsend
+190013;Wijk 13 Bouwhoek
+190014;Wijk 14 Weidestreek Oost
+190015;Wijk 15 Weidestreek West
+190016;Wijk 16 Weidestreek Zuid
+190017;Wijk 17 Makkum
+190018;Wijk 18 Weidestreek Zuidwest
+190019;Wijk 19 Boarnsterhim
+190020;Wijk 20 Littenseradiel
+190101;Wijk 01 Bodegraven Noord
+190102;Wijk 02 Bodegraven Centrum
+190103;Wijk 03 Bodegraven Zuid
+190104;Wijk 04 Nieuwerbrug Noord
+190105;Wijk 05 Nieuwerbrug Zuid
+190106;Wijk 06 Reeuwijk Dorp
+190107;Wijk 07 Reeuwijk Brug
+190108;Wijk 08 Driebruggen
+190109;Wijk 09 Waarder
+190300;Wijk 00 Eijsden
+190301;Wijk 01 Gronsveld
+190302;Wijk 02 Margraten
+190303;Wijk 03 Cadier en Keer
+190304;Wijk 04 Sint Geertruid
+190305;Wijk 05 Mheer - Noorbeek
+190401;Wijk 01 Maarssen
+190402;Wijk 02 Breukelen
+190403;Wijk 03 Loenen aan de Vecht
+190404;Wijk 04 Nieuwer Ter Aa
+190405;Wijk 05 Kockengen
+190406;Wijk 06 Vreeland
+190407;Wijk 07 Tienhoven
+190408;Wijk 08 Nigtevecht
+190409;Wijk 09 Nieuwersluis
+190410;Wijk 10 Loenersloot
+190411;Wijk 11 Oud Zuilen
+190412;Wijk 12 Maarssenbroek
+191100;Wijk 00 Winkel
+191101;Wijk 01 Nieuwe-Niedorp
+191102;Wijk 02 Oude-Niedorp
+191103;Wijk 03 Barsingerhorn en omgeving
+191104;Wijk 04 Wieringen
+191105;Wijk 05 Wieringermeer
+191106;Wijk 06
+191107;Wijk 07 Wieringerwaard en omgeving
+191601;Wijk 01 Park Veursehout
+191602;Wijk 02 Prinsenhof
+191603;Wijk 03 't Lien en omgeving
+191604;Wijk 04 Stompwijk
+191605;Wijk 05 Leidschendam-Centrum
+191606;Wijk 06 De Heuvel en omgeving
+191607;Wijk 07 Damsigt en omgeving
+191608;Wijk 08 Essesteijn
+191609;Wijk 09 Voorburg Midden
+191610;Wijk 10 Bovenveen
+191611;Wijk 11 Voorburg Noord
+191612;Wijk 12 Voorburg West
+192400;Goedereede
+192401;Ouddorp
+192402;Stellendam
+192403;Middelharnis
+192404;Ooltgensplaat
+192405;Den Bommel
+192406;Oude-Tonge
+192407;Dirksland
+192408;Melissant
+192409;Herkingen
+192410;Sommelsdijk
+192411;Nieuwe-Tonge
+192412;Stad aan 't Haringvliet
+192413;Achthuizen
+192601;Pijnacker
+192602;Nootdorp
+192603;Delfgauw
+192700;Wijk 00 Nieuw-Lekkerland
+192701;Wijk 01 Bleskensgraaf
+192702;Wijk 02 Brandwijk
+192703;Wijk 03 Goudriaan
+192704;Wijk 04 Molenaarsgraaf
+192705;Wijk 05 Ottoland
+192706;Wijk 06 Oud-Alblas
+192707;Wijk 07 Wijngaarden
+192708;Wijk 08 Groot-Ammers
+192709;Wijk 09 Langerak
+192710;Wijk 10 Nieuwpoort
+192711;Wijk 11 Streefkerk
+193001;Centrum
+193002;Schiekamp
+193003;Hoogwerf
+193004;Vierambachten
+193005;De Hoek
+193006;Gildenwijk
+193007;Groenewoud
+193008;Sterrenkwartier
+193009;Schenkel
+193010;De Elementen
+193011;Vogelenzang
+193012;De Akkers
+193013;Vriesland
+193014;Waterland
+193015;Maaswijk
+193016;Halfweg
+193017;Buitengebied
+193025;Heenvliet
+193027;Geervliet
+193029;Abbenbroek
+193031;Zuidland
+193033;Simonshaven
+193050;Hekelingen
+193100;Wijk 00 Lekkerkerk
+193101;Wijk 01 Krimpen aan de Lek
+193102;Wijk 02 Ouderkerk aan den IJssel
+193103;Wijk 03 Gouderak
+193104;Wijk 04 Bergambacht
+193105;Wijk 05 Bergstoep
+193106;Wijk 06 Ammerstol
+193107;Wijk 07 Berkenwoude
+193108;Wijk 08 Haastrecht
+193110;Wijk 10 Stolwijk
+193111;Wijk 11 Vlist
+193112;Wijk 12 Schoonhoven
+194001;Wijk 01 Akmarijp
+194002;Wijk 02 Bakhuizen
+194003;Wijk 03 Balk
+194004;Wijk 04 Bantega
+194005;Wijk 05 Boornzwaag
+194006;Wijk 06 Broek
+194007;Wijk 07 Delfstrahuizen
+194008;Wijk 08 Dijken
+194009;Wijk 09 Doniaga
+194010;Wijk 10 Echten
+194011;Wijk 11 Echtenerbrug
+194012;Wijk 12 Eesterga
+194013;Wijk 13 Elahuizen
+194014;Wijk 14 Follega
+194015;Wijk 15 Goingarijp
+194016;Wijk 16 Harich
+194017;Wijk 17 Haskerhorne
+194018;Wijk 18 Idskenhuizen
+194019;Wijk 19 Joure
+194020;Wijk 20 Kolderwolde
+194021;Wijk 21 Langweer
+194022;Wijk 22 Legemeer
+194023;Wijk 23 Lemmer
+194024;Wijk 24 Mirns
+194025;Wijk 25 Nijehaske
+194026;Wijk 26 Nijemirdum
+194027;Wijk 27 Oldeouwer
+194028;Wijk 28 Oosterzee
+194029;Wijk 29 Oudega
+194030;Wijk 30 Oudehaske
+194031;Wijk 31 Oudemirdum
+194032;Wijk 32 Ouwsterhaule
+194033;Wijk 33 Ouwster-Nijega
+194034;Wijk 34 Rijs
+194035;Wijk 35 Rohel
+194036;Wijk 36 Rotstergaast
+194037;Wijk 37 Rotsterhaule
+194038;Wijk 38 Rottum
+194039;Wijk 39 Ruigahuizen
+194040;Wijk 40 Scharsterbrug
+194041;Wijk 41 Sint Nicolaasga
+194042;Wijk 42 Sinjohannesga
+194043;Wijk 43 Sloten
+194044;Wijk 44 Snikzwaag
+194045;Wijk 45 Sondel
+194046;Wijk 46 Terherne
+194047;Wijk 47 Terkaple
+194048;Wijk 48 Teroele
+194049;Wijk 49 Tjerkgaast
+194050;Wijk 50 Vegelinsoord
+194051;Wijk 51 Wijckel
+194200;Bussum Centrum
+194201;Brediuskwartier
+194202;Eng
+194203;Spiegel
+194204;Muiden
+194205;Naarden
+194500;Beek
+194501;Berg en Dal
+194502;Breedeweg
+194503;De Horst
+194504;Erlecom
+194505;Groesbeek
+194506;Heilig Landstichting
+194507;Kekerdom
+194508;Leuth
+194509;Millingen aan de Rijn
+194510;Ooij
+194511;Persingen
+194512;Ubbergen
+194801;Erp
+194802;Schijndel
+194803;Sint-Oedenrode
+194804;Veghel
+194900;Wijk 00 - St.-Annaparochie e.o.
+194901;Wijk 01 - Oudebildtzijl e.o.
+194902;Wijk 02 - Minnertsga
+194903;Wijk 03 - Franeker
+194904;Wijk 04 - Tzummarum e.o.
+194905;Wijk 05 - Ried e.o.
+194906;Wijk 06 - Tzum e.o.
+194907;Wijk 07 - Sexbierum e.o.
+194908;Wijk 08 - Franeker Zuidwest
+194909;Wijk 09 - Wjelsryp e.o.
+194910;Wijk 10 - Winsum
+194911;Wijk 11 - Dronryp e.o.
+194912;Wijk 12 - Marsum e.o.
+194913;Wijk 13 - Berltsum e.o.
+194914;Wijk 14 - Bitgummole e.o.
+195000;Wijk 00 Bellingwolde
+195001;Wijk 01 Oost
+195002;Wijk 02 Blijham
+195003;Wijk 03 Sellingen
+195004;Wijk 04 Vlagtwedde
+195005;Wijk 05 Bourtange
+195006;Wijk 06 Sellingerbeetse
+195007;Wijk 07 Ter Apel
+195008;Wijk 08 Ter Wisch
+195009;Wijk 09 de Maten
+195201;Foxham en Hoogezand-Noord
+195202;Hoogezand-Zuid
+195203;Kalkwijk
+195204;Sappemeer
+195205;Kiel-Windeweer
+195206;Kropswolde
+195207;Foxhol
+195208;Westerbroek en Waterhuizen
+195209;Harkstede, Scharmer en Woudbloem
+195210;Kolham
+195211;Froombosch
+195212;Slochteren
+195213;Schildwolde
+195214;Hellum
+195215;Siddeburen
+195216;Eemskanaal-Zuid
+195217;Tjuchem en Steendam
+195218;Muntendam
+195219;Noordbroek
+195220;Zuidbroek
+195221;Meeden
+195500;Wijk 00 's-Heerenberg
+195501;Wijk 01 Brakel
+195502;Wijk 02 Didam
