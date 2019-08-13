@@ -19,7 +19,7 @@ to changing circumstances.
 ## Main dependencies
 - EMA Workbench
 
-## 1. Data Preparation
+## Data Preparation
 Real world open data has been gathered and prepared to create an extensive data set on a neighbourhood scale. Data hase been gather from:
 - [House and energy label data (BAG data)](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/gebouwen/hulpmiddelen-tools-en-inspiratie-gebouwen/ep-online)
 - [Energy consumption, renewable energy sources (Klimaatmonitor)](https://klimaatmonitor.databank.nl/Jive?workspace_guid=bd2cdc7f-43f4-40fd-b306-2854ca8b6ecc.)
