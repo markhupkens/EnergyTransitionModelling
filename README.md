@@ -1,5 +1,5 @@
 # EnergyTransitionModelling
-Exploring robust climate policies for the energy transition in the Dutch built environment sector. Created for my MSc thesis 
+Exploring robust climate policies for the energy transition in the Dutch built environment sector using Exploratory System Dynamics Modelling and Analysis in Python. Created for my MSc thesis 
 _'Robust Policies: An Exploratory Study on the Energy Transition of the Dutch Built Environment Sector'_ at TU Delft.
 An electronic version of the thesis is available at http://repository.tudelft.nl/.
 
@@ -17,7 +17,7 @@ nature of the climate plan, policies should include ample adjustment mechanisms 
 to changing circumstances.
 
 ## Main dependencies
-- EMA Workbench
+- [EMA Workbench](https://emaworkbench.readthedocs.io)
 
 ## Data Preparation
 Real world open data has been gathered and prepared to create an extensive data set on a neighbourhood scale. Data hase been gather from:
